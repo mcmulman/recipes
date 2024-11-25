@@ -22,14 +22,8 @@ function Recipes() {
     <>
       <Section>
         <div style={{display: 'flex', justifyContent: 'center', gap: '24px'}}>
-          <div style={{display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px'}}>
-            <label htmlFor='search'>Search in title:&nbsp;
-            </label><input name="searchTitle" placeholder='Search in title' onChange={handleSearch}/>
-          </div>
-          <div style={{display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px'}}>
-            <label htmlFor='searchDesc'>Search in description:&nbsp;</label>
-            <input name="searchDesc" placeholder='Search in description' onChange={handleSearch}/>
-          </div>
+            <input name="searchTitle" placeholder='Im Titel suchen' onChange={handleSearch}/>
+            <input name="searchDesc" placeholder='Im Text suchen' onChange={handleSearch}/>
         </div>
       </Section>
 
@@ -40,7 +34,6 @@ function Recipes() {
             <TabButton key={index-1} onTabSelect={() => onTabSelect(element.id)} active={activeTab === element.id}>{element.title}</TabButton>
           ))}
         >
-          {!activeTab && <p>Select a tab to view the Recipe</p>}
           {activeTab && (
             <div className={'tab-content'}>
               <Recipe {...RECIPES[activeTab-1]} />

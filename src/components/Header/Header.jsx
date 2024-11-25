@@ -3,7 +3,7 @@ import './Header.css';
 function Header() {
   return (
     <header>
-      <h1>Recipe favorites</h1>
+      <h1>Unsere Rezepte:</h1>
     </header>
   );
 }

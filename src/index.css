@@ -9,7 +9,7 @@ html {
   line-height: 1.5;
 
   color: #ebe7ef;
-  background: radial-gradient(#280a48, #20043d);
+  background: radial-gradient(#015a52, #014742);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -29,7 +29,7 @@ main h2 {
   text-align: center;
   font-family: "Roboto Condensed", sans-serif;
   margin: 0 0 1.5rem 0;
-  color: #a18aba;
+  color: #5f8fc1;
 }
 
 .examples {
@@ -54,7 +54,7 @@ main h2 {
 .tab-content {
   padding: 1rem;
   border-radius: 6px;
-  background-color: #2f1d43;
+  background-color: #023734;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
 }
 
@@ -71,6 +71,6 @@ input {
   font-size: 1rem;
   border-radius: 4px;
   border: none;
-  background-color: #2f1d43;
+  background-color: #023734;
   color: #ebe7ef;
 }

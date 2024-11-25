@@ -2,12 +2,8 @@ import Showdown from 'showdown';
 import DOMPurify from 'dompurify'
 
 function Recipe({title, description}) {
-
   const descriptionConverter = new Showdown.Converter();
-
   const descriptionHTML = descriptionConverter.makeHtml(description);
-
-
 
   return (
     <div style={{'overflow': 'auto'}}>
