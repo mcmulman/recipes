@@ -202,27 +202,27 @@ export const RECIPES = [
       "\n" +
       "**Zutaten:**\n" +
       "\n" +
-      "200 g grüne oder braune Linsen\n" +
-      "1 Dose Kokosmilch (400 ml)\n" +
-      "200 g frischer Spinat\n" +
-      "1 Zwiebel, gewürfelt\n" +
-      "2 Knoblauchzehen, gehackt\n" +
-      "1 cm frischer Ingwer, gerieben\n" +
-      "1 TL Kreuzkümmel\n" +
-      "1 TL Kurkuma\n" +
-      "1 TL Garam Masala\n" +
-      "1 Dose gehackte Tomaten\n" +
-      "1 EL Kokosöl\n" +
-      "Salz und Pfeffer nach Geschmack\n" +
-      "Frischer Koriander zur Garnitur\n" +
+      "- 200 g grüne oder braune Linsen\n" +
+      "- 1 Dose Kokosmilch (400 ml)\n" +
+      "- 200 g frischer Spinat\n" +
+      "- 1 Zwiebel, gewürfelt\n" +
+      "- 2 Knoblauchzehen, gehackt\n" +
+      "- 1 cm frischer Ingwer, gerieben\n" +
+      "- 1 TL Kreuzkümmel\n" +
+      "- 1 TL Kurkuma\n" +
+      "- 1 TL Garam Masala\n" +
+      "- 1 Dose gehackte Tomaten\n" +
+      "- 1 EL Kokosöl\n" +
+      "- Salz und Pfeffer nach Geschmack\n" +
+      "- Frischer Koriander zur Garnitur\n" +
       "**Zubereitung:**\n" +
       "\n" +
-      "Linsen in einem Sieb abspülen. In einem Topf mit Wasser zum Kochen bringen und ca. 20 Minuten köcheln lassen, bis sie weich sind.\n" +
-      "In einem großen Topf Kokosöl erhitzen und Zwiebel, Knoblauch und Ingwer darin anbraten.\n" +
-      "Gewürze (Kreuzkümmel, Kurkuma, Garam Masala) hinzufügen und kurz anrösten, bis sie duften.\n" +
-      "Tomaten und Kokosmilch hinzufügen und gut umrühren.\n" +
-      "Die Linsen und den Spinat dazugeben, alles zum Kochen bringen und etwa 10 Minuten köcheln lassen, bis der Spinat zusammengefallen ist.\n" +
-      "Mit Salz, Pfeffer und frischem Koriander abschmecken. Mit Reis oder Naan servieren."
+      "- Linsen in einem Sieb abspülen. In einem Topf mit Wasser zum Kochen bringen und ca. 20 Minuten köcheln lassen, bis sie weich sind.\n" +
+      "- In einem großen Topf Kokosöl erhitzen und Zwiebel, Knoblauch und Ingwer darin anbraten.\n" +
+      "- Gewürze (Kreuzkümmel, Kurkuma, Garam Masala) hinzufügen und kurz anrösten, bis sie duften.\n" +
+      "- Tomaten und Kokosmilch hinzufügen und gut umrühren.\n" +
+      "- Die Linsen und den Spinat dazugeben, alles zum Kochen bringen und etwa 10 Minuten köcheln lassen, bis der Spinat zusammengefallen ist.\n" +
+      "- Mit Salz, Pfeffer und frischem Koriander abschmecken. Mit Reis oder Naan servieren."
   },
   {
     id: 9,
@@ -288,8 +288,8 @@ export const RECIPES = [
     title: "11. Veganes Chili",
     description: "Ein besonderes veganes Chili lässt sich wunderbar mit verschiedenen pflanzlichen Zutaten zubereiten, die dem Gericht Tiefe und Komplexität verleihen. In diesem Rezept kombiniere ich reichhaltige Bohnen, Gemüse und Gewürze zu einem herzhaften, aromatischen Chili, das durch geräucherte Paprika und dunkle Schokolade eine besondere Note bekommt.\n" +
       "\n" +
-      "Besonderes Veganes Chili\n" +
-      "**Zutaten:**\n" +
+      "Zubereitung:\n" +
+      "\n" +
       "- 1 EL Olivenöl\n" +
       "- 1 große Zwiebel, gewürfelt\n" +
       "- 2 Knoblauchzehen, gehackt\n" +
@@ -315,6 +315,7 @@ export const RECIPES = [
       "- 1 EL Limettensaft (optional)\n" +
       "- Frischer Koriander und Avocado zum Garnieren\n" +
       "Zubereitung:\n" +
+      "\n" +
       "-Gemüse anbraten:\n" +
       "\n" +
       "Das Olivenöl in einem großen Topf erhitzen. Die Zwiebel, den Knoblauch, die Karotte, Paprika, Sellerie und Zucchini darin anbraten, bis das Gemüse weich wird und die Zwiebel glasig ist (ca. 8-10 Minuten).\n" +
@@ -341,6 +342,7 @@ export const RECIPES = [
       "Für extra Crunch und Geschmack kannst du das Chili auch mit veganer Sauerrahm, gerösteten Nüssen oder knusprigen Tortillachips servieren.\n" +
       "\n" +
       "**Variationen:**\n" +
+      "\n" +
       "- Würziges Chili: Du kannst noch zusätzlich frische Chilis oder eine scharfe Chilisauce hinzufügen, wenn du es besonders scharf magst.\n" +
       "- Fleischiger: Falls du es \"fleischiger\" magst, kannst du auch veganes Hack (z.B. aus Soja oder Erbsenprotein) in das Chili geben.\n" +
       "- Räucher-Note: Wenn du eine noch intensivere rauchige Note möchtest, kannst du auch zusätzlich etwas Liquid Smoke oder geräuchertes Paprikapulver verwenden.\n" +
