@@ -17,8 +17,9 @@ export const RECIPES = [
       "  - 1 Liter Gemüsebrühe\n" +
       "  - 1 EL Olivenöl\n" +
       "  - Salz und Pfeffer\n" +
-      "  \n" +
-      "- **Zubereitung:**\n" +
+      "\n" +
+      "**Zubereitung:**\n" +
+      "\n" +
       "  1. Die Zwiebel, Karotten und Sellerie in einem Topf mit Olivenöl anbraten, bis sie weich sind.\n" +
       "  2. Knoblauch und Gewürze (Kreuzkümmel, Kurkuma, Paprikapulver) hinzufügen und kurz mitbraten.\n" +
       "  3. Linsen, Tomaten und Gemüsebrühe hinzufügen und alles zum Kochen bringen. Das Ganze 25–30 Minuten köcheln lassen, bis die Linsen weich sind.\n" +
@@ -44,8 +45,9 @@ export const RECIPES = [
   "  - 1 TL Ingwer, frisch gerieben\n" +
   "  - 1 Handvoll frische Korianderblätter\n" +
   "  - 3 EL Erdnüsse, grob gehackt\n" +
-  "  \n" +
-  "- **Zubereitung:**\n" +
+      "\n" +
+      "**Zubereitung:**\n" +
+      "\n" +
   "  1. Die Zwiebel, den Knoblauch und den Ingwer in einem Topf mit etwas Öl anbraten, bis sie duften.\n" +
   "  2. Süßkartoffeln, Karotten, Paprika und Kichererbsen hinzufügen und mit Kurkuma, Kreuzkümmel und Garam Masala würzen.\n" +
   "  3. Kokosmilch hinzufügen, umrühren und das Curry ca. 20 Minuten köcheln lassen, bis das Gemüse weich ist.\n" +
@@ -71,8 +73,9 @@ export const RECIPES = [
       "  - 2 EL Tahini\n" +
       "  - 1 TL Sesamsamen (optional)\n" +
       "  - 1 TL Chiliflocken (optional)\n" +
-      "  \n" +
-      "- **Zubereitung:**\n" +
+      "\n" +
+      "**Zubereitung:**\n" +
+      "\n" +
       "  1. Tempeh in Streifen schneiden und in einer heißen Pfanne mit Sesamöl anbraten, bis es goldbraun und knusprig ist. Aus der Pfanne nehmen und beiseite stellen.\n" +
       "  2. Brokkoli, Champignons und Karotten in derselben Pfanne anbraten, bis sie gar, aber noch bissfest sind (ca. 5–7 Minuten).\n" +
       "  3. In einer kleinen Schüssel Sojasauce, Reisessig, Ahornsirup, Tahini, Ingwer und Knoblauch vermengen. Diese Mischung in die Pfanne geben und alles gut vermengen.\n" +
@@ -94,8 +97,9 @@ export const RECIPES = [
       "  - 1 EL Hefeflocken (optional)\n" +
       "  - 1/4 Tasse Olivenöl\n" +
       "  - Salz und Pfeffer\n" +
-      "  \n" +
+      "\n" +
       "**Zubereitung:**\n" +
+      "\n" +
       "  1. Zucchini mit einem Spiralschneider in Nudeln schneiden.\n" +
       "  2. Für das Pesto Avocado, Knoblauch, Pinienkerne, Basilikum, Zitronensaft, Hefeflocken und Olivenöl in einem Mixer oder mit einem Pürierstab zu einer cremigen Sauce verarbeiten.\n" +
       "  3. Die Zucchini-Nudeln leicht anbraten oder roh servieren.\n" +
@@ -122,8 +126,9 @@ export const RECIPES = [
       "  - 1 EL Olivenöl\n" +
       "  - 400 ml Gemüsebrühe\n" +
       "  - Saft von 1 Limette\n" +
-      "  \n" +
+      "\n" +
       "**Zubereitung:**\n" +
+      "\n" +
       "  1. In einem großen Topf Olivenöl erhitzen und die Zwiebel, den Knoblauch und den Ingwer darin anbraten, bis sie weich sind.\n" +
       "  2. Die Süßkartoffeln und Gewürze (Curry, Kreuzkümmel, Kurkuma, Zimt) hinzufügen und 2–3 Minuten anbraten, bis die Aromen freigesetzt sind.\n" +
       "  3. Kichererbsen, Kokosmilch und Gemüsebrühe hinzufügen und das Curry 20–25 Minuten köcheln lassen, bis die Süßkartoffeln weich sind.\n" +
@@ -153,8 +158,9 @@ export const RECIPES = [
       "  - 1 TL Ahornsirup\n" +
       "  - 1 TL Sesamöl\n" +
       "  - Salz und Pfeffer\n" +
-      "  \n" +
+      "\n" +
       "**Zubereitung:**\n" +
+      "\n" +
       "  1. Quinoa nach Packungsanweisung kochen und beiseite stellen.\n" +
       "  2. Tofu in einer Pfanne mit Sojasauce und Sesamöl anbraten, bis er goldbraun und knusprig ist.\n" +
       "  3. Für das Dressing alle Zutaten in einem Mixer pürieren, bis eine cremige Konsistenz entsteht.\n" +
@@ -185,8 +191,9 @@ export const RECIPES = [
       "  - 1 TL Senf\n" +
       "  - Wasser zum Verdünnen\n" +
       "  - Salz und Pfeffer nach Geschmack\n" +
-      "  \n" +
+      "\n" +
       "**Zubereitung:**\n" +
+      "\n" +
       "  1. Die Linsen in einem Topf mit Wasser zum Kochen bringen und etwa 20–25 Minuten kochen, bis sie weich, aber noch bissfest sind. Abgießen und abkühlen lassen.\n" +
       "  2. Das Gemüse mit Olivenöl, Kreuzkümmel, Paprika und Kurkuma vermengen und auf einem Backblech bei 200°C ca. 25–30 Minuten rösten, bis es goldbraun und weich ist.\n" +
       "  3. Für das Dressing alle Zutaten in einer kleinen Schüssel verrühren und mit Wasser verdünnen, bis es eine cremige Konsistenz hat.\n" +
@@ -197,7 +204,7 @@ export const RECIPES = [
   {
     id: 8,
     title: "8. Linsencurry mit Kokosmilch und Spinat",
-    description: " Linsencurry mit Kokosmilch und Spinat\n" +
+    description: "### Linsencurry mit Kokosmilch und Spinat\n" +
       "Ein reichhaltiges, aromatisches Curry mit proteinreichen Linsen, cremiger Kokosmilch und frischem Spinat. Es ist vollgepackt mit Ballaststoffen, Antioxidantien und gesunden Fetten.\n" +
       "\n" +
       "**Zutaten:**\n" +
@@ -215,6 +222,7 @@ export const RECIPES = [
       "- 1 EL Kokosöl\n" +
       "- Salz und Pfeffer nach Geschmack\n" +
       "- Frischer Koriander zur Garnitur\n" +
+      "\n" +
       "**Zubereitung:**\n" +
       "\n" +
       "- Linsen in einem Sieb abspülen. In einem Topf mit Wasser zum Kochen bringen und ca. 20 Minuten köcheln lassen, bis sie weich sind.\n" +
@@ -227,7 +235,7 @@ export const RECIPES = [
   {
     id: 9,
     title: "9. Veganer Shepherd’s Pie",
-    description: "Ein traditionelles britisches Gericht, das normalerweise mit Hackfleisch zubereitet wird. In der veganen Version wird es mit Linsen und einer cremigen Kartoffeldecke serviert. Herzhaft und sättigend!\n" +
+    description: "### Ein traditionelles britisches Gericht, das normalerweise mit Hackfleisch zubereitet wird. In der veganen Version wird es mit Linsen und einer cremigen Kartoffeldecke serviert. Herzhaft und sättigend!\n" +
       "\n" +
       "**Zutaten:**\n" +
       "\n" +
@@ -244,6 +252,7 @@ export const RECIPES = [
       "- 1/4 Tasse pflanzliche Milch\n" +
       "- 2 EL vegane Margarine\n" +
       "- Salz und Pfeffer nach Geschmack\n" +
+      "\n" +
       "**Zubereitung:**\n" +
       "\n" +
       "- Die Linsen nach Packungsanweisung kochen und abtropfen lassen.\n" +
@@ -255,7 +264,7 @@ export const RECIPES = [
   {
     id: 10,
     title: "10. Veganer \"Chicken\" Tikka Masala\n",
-    description: "Dieses aromatische, indische Gericht wird ohne Hühnchen zubereitet, stattdessen wird Tofu oder Seitan verwendet. Es ist vollgepackt mit Gewürzen und einer cremigen Tomatensauce, die es zu einem herzhaften Favoriten macht.\n" +
+    description: "### Dieses aromatische, indische Gericht wird ohne Hühnchen zubereitet, stattdessen wird Tofu oder Seitan verwendet. Es ist vollgepackt mit Gewürzen und einer cremigen Tomatensauce, die es zu einem herzhaften Favoriten macht.\n" +
       "\n" +
       "**Zutaten:**\n" +
       "\n" +
@@ -274,7 +283,8 @@ export const RECIPES = [
       "- Salz und Pfeffer\n" +
       "- Frischer Koriander zum Garnieren\n" +
       "- Reis als Beilage\n" +
-      "Zubereitung:\n" +
+      "\n" +
+      "**Zubereitung:**\n" +
       "\n" +
       "- Tofu oder Seitan in einer Pfanne mit etwas Öl anbraten, bis sie leicht gebräunt sind. Beiseite stellen.\n" +
       "- In der gleichen Pfanne Zwiebel, Knoblauch und Ingwer anbraten, bis sie weich sind.\n" +
@@ -286,9 +296,9 @@ export const RECIPES = [
   {
     id: 11,
     title: "11. Veganes Chili",
-    description: "Ein besonderes veganes Chili lässt sich wunderbar mit verschiedenen pflanzlichen Zutaten zubereiten, die dem Gericht Tiefe und Komplexität verleihen. In diesem Rezept kombiniere ich reichhaltige Bohnen, Gemüse und Gewürze zu einem herzhaften, aromatischen Chili, das durch geräucherte Paprika und dunkle Schokolade eine besondere Note bekommt.\n" +
+    description: "### Ein besonderes veganes Chili lässt sich wunderbar mit verschiedenen pflanzlichen Zutaten zubereiten, die dem Gericht Tiefe und Komplexität verleihen. In diesem Rezept kombiniere ich reichhaltige Bohnen, Gemüse und Gewürze zu einem herzhaften, aromatischen Chili, das durch geräucherte Paprika und dunkle Schokolade eine besondere Note bekommt.\n" +
       "\n" +
-      "Zubereitung:\n" +
+      "**Zutaten:**\n" +
       "\n" +
       "- 1 EL Olivenöl\n" +
       "- 1 große Zwiebel, gewürfelt\n" +
@@ -314,9 +324,10 @@ export const RECIPES = [
       "- Salz und Pfeffer nach Geschmack\n" +
       "- 1 EL Limettensaft (optional)\n" +
       "- Frischer Koriander und Avocado zum Garnieren\n" +
-      "Zubereitung:\n" +
       "\n" +
-      "-Gemüse anbraten:\n" +
+      "**Zubereitung:**\n" +
+      "\n" +
+      "- Gemüse anbraten:\n" +
       "\n" +
       "Das Olivenöl in einem großen Topf erhitzen. Die Zwiebel, den Knoblauch, die Karotte, Paprika, Sellerie und Zucchini darin anbraten, bis das Gemüse weich wird und die Zwiebel glasig ist (ca. 8-10 Minuten).\n" +
       "- Gewürze hinzufügen:\n" +
@@ -335,6 +346,7 @@ export const RECIPES = [
       "\n" +
       "Die dunkle Schokolade in kleine Stücke brechen und ins Chili rühren, bis sie vollständig geschmolzen ist. Dies gibt dem Chili eine tiefere, reichhaltigere Note.\n" +
       "Mit Salz, Pfeffer und Limettensaft abschmecken. Wenn du es noch etwas süßer magst, kannst du noch einen zusätzlichen Teelöffel Ahornsirup hinzufügen.\n" +
+      "\n" +
       "Servieren:\n" +
       "\n" +
       "Das Chili in Schalen anrichten und nach Belieben mit frischem Koriander, Avocado und einem Spritzer Limettensaft garnieren.\n" +
