@@ -3,7 +3,7 @@ export const RECIPES = [
     id: 1,
     title: "1. Linsensuppe",
     description: "### 10. **Linsensuppe mit Spinat, Tomaten und Kurkuma**\n" +
-      "- **Zutaten:**\n" +
+      "**Zutaten:**\n" +
       "  - 200 g grüne oder braune Linsen\n" +
       "  - 1 Dose gewürfelte Tomaten (400 g)\n" +
       "  - 1 Zwiebel, gewürfelt\n" +
@@ -30,7 +30,7 @@ export const RECIPES = [
     id: 2,
     title: "2. Süßkartoffel-Curry",
     description: "### 9. **Süßkartoffel-Curry mit Erdnüssen und Kokosmilch**\n" +
-  "- **Zutaten:**\n" +
+  "**Zutaten:**\n" +
   "  - 2 Süßkartoffeln, gewürfelt\n" +
   "  - 1 Dose Kokosmilch (400 ml)\n" +
   "  - 200 g Kichererbsen, abgetropft und abgespült\n" +
@@ -57,7 +57,7 @@ export const RECIPES = [
     id: 3,
     title: "3. Tempeh-Stir-Fry",
     description: "### 6. **Tempeh-Stir-Fry mit Brokkoli, Pilzen und Tahini-Soja-Glasur**\n" +
-      "- **Zutaten:**\n" +
+      "**Zutaten:**\n" +
       "  - 200 g Tempeh, in Streifen geschnitten\n" +
       "  - 1 Kopf Brokkoli, in Röschen zerteilt\n" +
       "  - 150 g Champignons, in Scheiben geschnitten\n" +
@@ -84,7 +84,7 @@ export const RECIPES = [
     id: 4,
     title: "4. Zucchini-Nudeln",
     description: "### 4. **Zucchini-Nudeln mit Avocado-Pesto und gerösteten Pinienkernen**\n" +
-      "- **Zutaten:**\n" +
+      "**Zutaten:**\n" +
       "  - 3 große Zucchini, spiralisiert\n" +
       "  - 1 reife Avocado\n" +
       "  - 2 Knoblauchzehen\n" +
@@ -95,7 +95,7 @@ export const RECIPES = [
       "  - 1/4 Tasse Olivenöl\n" +
       "  - Salz und Pfeffer\n" +
       "  \n" +
-      "- **Zubereitung:**\n" +
+      "**Zubereitung:**\n" +
       "  1. Zucchini mit einem Spiralschneider in Nudeln schneiden.\n" +
       "  2. Für das Pesto Avocado, Knoblauch, Pinienkerne, Basilikum, Zitronensaft, Hefeflocken und Olivenöl in einem Mixer oder mit einem Pürierstab zu einer cremigen Sauce verarbeiten.\n" +
       "  3. Die Zucchini-Nudeln leicht anbraten oder roh servieren.\n" +
@@ -106,8 +106,8 @@ export const RECIPES = [
   {
     id: 5,
     title: "5. Kichererbsen-Curry",
-    description: "### 3. **Kichererbsen-Curry mit Grünkohl, Süßkartoffeln und Kokosmilch**\n" +
-      "- **Zutaten:**\n" +
+    description: "### 5. **Kichererbsen-Curry mit Grünkohl, Süßkartoffeln und Kokosmilch**\n" +
+      "**Zutaten:**\n" +
       "  - 1 Dose Kichererbsen, abgetropft und abgespült\n" +
       "  - 2 Süßkartoffeln, gewürfelt\n" +
       "  - 200 g Grünkohl, gewaschen und grob gehackt\n" +
@@ -123,7 +123,7 @@ export const RECIPES = [
       "  - 400 ml Gemüsebrühe\n" +
       "  - Saft von 1 Limette\n" +
       "  \n" +
-      "- **Zubereitung:**\n" +
+      "**Zubereitung:**\n" +
       "  1. In einem großen Topf Olivenöl erhitzen und die Zwiebel, den Knoblauch und den Ingwer darin anbraten, bis sie weich sind.\n" +
       "  2. Die Süßkartoffeln und Gewürze (Curry, Kreuzkümmel, Kurkuma, Zimt) hinzufügen und 2–3 Minuten anbraten, bis die Aromen freigesetzt sind.\n" +
       "  3. Kichererbsen, Kokosmilch und Gemüsebrühe hinzufügen und das Curry 20–25 Minuten köcheln lassen, bis die Süßkartoffeln weich sind.\n" +
@@ -134,9 +134,9 @@ export const RECIPES = [
   },
   {
     id: 6,
-    title: "2. Quinoa-Bowl",
-    description: "### 2. **Quinoa-Bowl mit geröstetem Tofu, Avocado und Mango-Limetten-Dressing**\n" +
-      "- **Zutaten:**\n" +
+    title: "6. Quinoa-Bowl",
+    description: "### 6. **Quinoa-Bowl mit geröstetem Tofu, Avocado und Mango-Limetten-Dressing**\n" +
+      "**Zutaten:**\n" +
       "  - 200 g Quinoa\n" +
       "  - 200 g Tofu, in Würfel geschnitten\n" +
       "  - 1 reife Avocado, in Scheiben\n" +
@@ -154,7 +154,7 @@ export const RECIPES = [
       "  - 1 TL Sesamöl\n" +
       "  - Salz und Pfeffer\n" +
       "  \n" +
-      "- **Zubereitung:**\n" +
+      "**Zubereitung:**\n" +
       "  1. Quinoa nach Packungsanweisung kochen und beiseite stellen.\n" +
       "  2. Tofu in einer Pfanne mit Sojasauce und Sesamöl anbraten, bis er goldbraun und knusprig ist.\n" +
       "  3. Für das Dressing alle Zutaten in einem Mixer pürieren, bis eine cremige Konsistenz entsteht.\n" +
@@ -166,7 +166,7 @@ export const RECIPES = [
     id: 7,
     title: "7. Linsensalat",
     description: "### 1. **Linsensalat mit geröstetem Gemüse und Tahini-Zitronen-Dressing**\n" +
-      "- **Zutaten:**\n" +
+      "**Zutaten:**\n" +
       "  - 200 g grüne oder schwarze Linsen\n" +
       "  - 1 Süßkartoffel, gewürfelt\n" +
       "  - 1 Zucchini, gewürfelt\n" +
@@ -186,7 +186,7 @@ export const RECIPES = [
       "  - Wasser zum Verdünnen\n" +
       "  - Salz und Pfeffer nach Geschmack\n" +
       "  \n" +
-      "- **Zubereitung:**\n" +
+      "**Zubereitung:**\n" +
       "  1. Die Linsen in einem Topf mit Wasser zum Kochen bringen und etwa 20–25 Minuten kochen, bis sie weich, aber noch bissfest sind. Abgießen und abkühlen lassen.\n" +
       "  2. Das Gemüse mit Olivenöl, Kreuzkümmel, Paprika und Kurkuma vermengen und auf einem Backblech bei 200°C ca. 25–30 Minuten rösten, bis es goldbraun und weich ist.\n" +
       "  3. Für das Dressing alle Zutaten in einer kleinen Schüssel verrühren und mit Wasser verdünnen, bis es eine cremige Konsistenz hat.\n" +
@@ -194,4 +194,156 @@ export const RECIPES = [
       "\n" +
       "**Gesundheitsfaktor:** Linsen sind eine hervorragende Quelle für pflanzliches Eiweiß, Ballaststoffe und Mineralien. Das geröstete Gemüse liefert zusätzlich Vitamine und Antioxidantien, während Tahini eine gute Quelle für gesunde Fette und Kalzium ist.",
   },
+  {
+    id: 8,
+    title: "8. Linsencurry mit Kokosmilch und Spinat",
+    description: "8. Linsencurry mit Kokosmilch und Spinat\n" +
+      "Ein reichhaltiges, aromatisches Curry mit proteinreichen Linsen, cremiger Kokosmilch und frischem Spinat. Es ist vollgepackt mit Ballaststoffen, Antioxidantien und gesunden Fetten.\n" +
+      "\n" +
+      "**Zutaten:**\n" +
+      "\n" +
+      "200 g grüne oder braune Linsen\n" +
+      "1 Dose Kokosmilch (400 ml)\n" +
+      "200 g frischer Spinat\n" +
+      "1 Zwiebel, gewürfelt\n" +
+      "2 Knoblauchzehen, gehackt\n" +
+      "1 cm frischer Ingwer, gerieben\n" +
+      "1 TL Kreuzkümmel\n" +
+      "1 TL Kurkuma\n" +
+      "1 TL Garam Masala\n" +
+      "1 Dose gehackte Tomaten\n" +
+      "1 EL Kokosöl\n" +
+      "Salz und Pfeffer nach Geschmack\n" +
+      "Frischer Koriander zur Garnitur\n" +
+      "**Zubereitung:**\n" +
+      "\n" +
+      "Linsen in einem Sieb abspülen. In einem Topf mit Wasser zum Kochen bringen und ca. 20 Minuten köcheln lassen, bis sie weich sind.\n" +
+      "In einem großen Topf Kokosöl erhitzen und Zwiebel, Knoblauch und Ingwer darin anbraten.\n" +
+      "Gewürze (Kreuzkümmel, Kurkuma, Garam Masala) hinzufügen und kurz anrösten, bis sie duften.\n" +
+      "Tomaten und Kokosmilch hinzufügen und gut umrühren.\n" +
+      "Die Linsen und den Spinat dazugeben, alles zum Kochen bringen und etwa 10 Minuten köcheln lassen, bis der Spinat zusammengefallen ist.\n" +
+      "Mit Salz, Pfeffer und frischem Koriander abschmecken. Mit Reis oder Naan servieren."
+  },
+  {
+    id: 9,
+    title: "9. Veganer Shepherd’s Pie",
+    description: "Ein traditionelles britisches Gericht, das normalerweise mit Hackfleisch zubereitet wird. In der veganen Version wird es mit Linsen und einer cremigen Kartoffeldecke serviert. Herzhaft und sättigend!\n" +
+      "\n" +
+      "**Zutaten:**\n" +
+      "\n" +
+      "- 2 Tassen grüne oder braune Linsen\n" +
+      "- 4 Kartoffeln, geschält und gewürfelt\n" +
+      "- 1 Zwiebel, gewürfelt\n" +
+      "- 2 Karotten, gewürfelt\n" +
+      "- 1 Selleriestange, gewürfelt\n" +
+      "- 2 Knoblauchzehen, gehackt\n" +
+      "- 2 EL Tomatenmark\n" +
+      "- 1 Tasse Gemüsebrühe\n" +
+      "- 1 TL Thymian\n" +
+      "- 1 TL Rosmarin\n" +
+      "- 1/4 Tasse pflanzliche Milch\n" +
+      "- 2 EL vegane Margarine\n" +
+      "- Salz und Pfeffer nach Geschmack\n" +
+      "**Zubereitung:**\n" +
+      "\n" +
+      "- Die Linsen nach Packungsanweisung kochen und abtropfen lassen.\n" +
+      "- Die Kartoffeln in einem Topf mit Wasser weich kochen. Abgießen und mit pflanzlicher Milch und Margarine pürieren.\n" +
+      "- In einer Pfanne Zwiebel, Karotten, Sellerie und Knoblauch anbraten, bis sie weich sind. Tomatenmark, Gemüsebrühe und die gekochten Linsen hinzufügen. Mit Thymian, Rosmarin, Salz und Pfeffer abschmecken und alles gut vermengen.\n" +
+      "- Die Linsen-Gemüse-Mischung in eine Auflaufform geben und mit dem Kartoffelpüree bedecken.\n" +
+      "- Den Shepherd’s Pie bei 180°C für ca. 25-30 Minuten backen, bis die Oberfläche leicht goldbraun ist."
+  },
+  {
+    id: 10,
+    title: "10. Veganer \"Chicken\" Tikka Masala\n",
+    description: "Dieses aromatische, indische Gericht wird ohne Hühnchen zubereitet, stattdessen wird Tofu oder Seitan verwendet. Es ist vollgepackt mit Gewürzen und einer cremigen Tomatensauce, die es zu einem herzhaften Favoriten macht.\n" +
+      "\n" +
+      "**Zutaten:**\n" +
+      "\n" +
+      "- 400 g Tofu oder Seitan, gewürfelt\n" +
+      "- 1 Zwiebel, gewürfelt\n" +
+      "- 3 Knoblauchzehen, gehackt\n" +
+      "- 1 Stück frischer Ingwer (ca. 2 cm), gerieben\n" +
+      "- 2 TL Garam Masala\n" +
+      "- 1 TL Kurkuma\n" +
+      "- 1 TL Kreuzkümmel\n" +
+      "- 1/2 TL Cayennepfeffer (optional)\n" +
+      "- 400 g Tomaten (aus der Dose)\n" +
+      "- 200 ml Kokosmilch\n" +
+      "- 1 EL Tomatenmark\n" +
+      "- 1 EL Pflanzenöl\n" +
+      "- Salz und Pfeffer\n" +
+      "- Frischer Koriander zum Garnieren\n" +
+      "- Reis als Beilage\n" +
+      "Zubereitung:\n" +
+      "\n" +
+      "- Tofu oder Seitan in einer Pfanne mit etwas Öl anbraten, bis sie leicht gebräunt sind. Beiseite stellen.\n" +
+      "- In der gleichen Pfanne Zwiebel, Knoblauch und Ingwer anbraten, bis sie weich sind.\n" +
+      "- Gewürze (Garam Masala, Kurkuma, Kreuzkümmel, Cayennepfeffer) hinzufügen und kurz anrösten, um die Aromen freizusetzen.\n" +
+      "- Tomaten, Tomatenmark und Kokosmilch hinzufügen und köcheln lassen, bis die Sauce dick wird (ca. 10 Minuten).\n" +
+      "- Tofu oder Seitan wieder in die Pfanne geben und alles gut vermengen. Mit Salz und Pfeffer abschmecken.\n" +
+      "- Mit frischem Koriander garnieren und mit Reis servieren."
+  },
+  {
+    id: 11,
+    title: "11. Veganes Chili",
+    description: "Ein besonderes veganes Chili lässt sich wunderbar mit verschiedenen pflanzlichen Zutaten zubereiten, die dem Gericht Tiefe und Komplexität verleihen. In diesem Rezept kombiniere ich reichhaltige Bohnen, Gemüse und Gewürze zu einem herzhaften, aromatischen Chili, das durch geräucherte Paprika und dunkle Schokolade eine besondere Note bekommt.\n" +
+      "\n" +
+      "Besonderes Veganes Chili\n" +
+      "**Zutaten:**\n" +
+      "- 1 EL Olivenöl\n" +
+      "- 1 große Zwiebel, gewürfelt\n" +
+      "- 2 Knoblauchzehen, gehackt\n" +
+      "- 1 große Karotte, gewürfelt\n" +
+      "- 1 Paprika (rot oder gelb), gewürfelt\n" +
+      "- 2 Selleriestangen, gewürfelt\n" +
+      "- 1 Zucchini, gewürfelt\n" +
+      "- 1 Dose (400 g) schwarze Bohnen, abgetropft und abgespült\n" +
+      "- 1 Dose (400 g) Kidneybohnen, abgetropft und abgespült\n" +
+      "- 1 Dose (400 g) stückige Tomaten\n" +
+      "- 1 Dose (400 g) Mais (optional)\n" +
+      "- 2 EL Tomatenmark\n" +
+      "- 1 TL Kreuzkümmel\n" +
+      "- 1 TL Paprikapulver (geräuchert für extra Geschmack)\n" +
+      "- 1/2 TL Zimt (für Tiefe)\n" +
+      "- 1 TL Chiliflocken oder 1 frische Chili (je nach gewünschter Schärfe)\n" +
+      "- 1 TL Oregano\n" +
+      "- 1 TL Koriander (optional)\n" +
+      "- 2 EL dunkle Schokolade (mindestens 70% Kakao)\n" +
+      "- 1 Tasse Gemüsebrühe\n" +
+      "- 1 EL Ahornsirup (oder Agavendicksaft)\n" +
+      "- Salz und Pfeffer nach Geschmack\n" +
+      "- 1 EL Limettensaft (optional)\n" +
+      "- Frischer Koriander und Avocado zum Garnieren\n" +
+      "Zubereitung:\n" +
+      "-Gemüse anbraten:\n" +
+      "\n" +
+      "Das Olivenöl in einem großen Topf erhitzen. Die Zwiebel, den Knoblauch, die Karotte, Paprika, Sellerie und Zucchini darin anbraten, bis das Gemüse weich wird und die Zwiebel glasig ist (ca. 8-10 Minuten).\n" +
+      "- Gewürze hinzufügen:\n" +
+      "\n" +
+      "Kreuzkümmel, Paprikapulver, Zimt, Chiliflocken, Oregano und Koriander in den Topf geben und kurz mit anbraten, bis die Gewürze duften (ca. 1-2 Minuten). Dies bringt die Aromen zur Geltung.\n" +
+      "- Bohnen und Tomaten hinzufügen:\n" +
+      "\n" +
+      "Die schwarzen Bohnen, Kidneybohnen, stückigen Tomaten, Mais und das Tomatenmark hinzufügen. Gut umrühren.\n" +
+      "- Flüssigkeit und Süße:\n" +
+      "\n" +
+      "Die Gemüsebrühe und den Ahornsirup (oder Agavendicksaft) hinzufügen. Alles gut vermengen und zum Kochen bringen.\n" +
+      "- Köcheln lassen:\n" +
+      "\n" +
+      "Das Chili bei mittlerer Hitze etwa 30-40 Minuten köcheln lassen, bis das Gemüse weich ist und sich die Aromen gut verbunden haben. Wenn das Chili zu dick wird, kannst du etwas mehr Brühe oder Wasser hinzufügen.\n" +
+      "- Schokolade und Abschmecken:\n" +
+      "\n" +
+      "Die dunkle Schokolade in kleine Stücke brechen und ins Chili rühren, bis sie vollständig geschmolzen ist. Dies gibt dem Chili eine tiefere, reichhaltigere Note.\n" +
+      "Mit Salz, Pfeffer und Limettensaft abschmecken. Wenn du es noch etwas süßer magst, kannst du noch einen zusätzlichen Teelöffel Ahornsirup hinzufügen.\n" +
+      "Servieren:\n" +
+      "\n" +
+      "Das Chili in Schalen anrichten und nach Belieben mit frischem Koriander, Avocado und einem Spritzer Limettensaft garnieren.\n" +
+      "Tipp:\n" +
+      "Für extra Crunch und Geschmack kannst du das Chili auch mit veganer Sauerrahm, gerösteten Nüssen oder knusprigen Tortillachips servieren.\n" +
+      "\n" +
+      "**Variationen:**\n" +
+      "- Würziges Chili: Du kannst noch zusätzlich frische Chilis oder eine scharfe Chilisauce hinzufügen, wenn du es besonders scharf magst.\n" +
+      "- Fleischiger: Falls du es \"fleischiger\" magst, kannst du auch veganes Hack (z.B. aus Soja oder Erbsenprotein) in das Chili geben.\n" +
+      "- Räucher-Note: Wenn du eine noch intensivere rauchige Note möchtest, kannst du auch zusätzlich etwas Liquid Smoke oder geräuchertes Paprikapulver verwenden.\n" +
+      "- Dieses vegane Chili ist besonders durch die Kombination aus Gewürzen, der dunklen Schokolade und der Süße des Ahornsirups ein wahres Geschmackserlebnis. Viel Spaß beim Kochen!",
+  }
 ];
