@@ -2,7 +2,7 @@ export const RECIPES = [
   {
     id: 1,
     title: "1. Linsensuppe",
-    description: "### 10. **Linsensuppe mit Spinat, Tomaten und Kurkuma**\n" +
+    description: "### **Linsensuppe mit Spinat, Tomaten und Kurkuma**\n" +
       "**Zutaten:**\n" +
       "  - 200 g grüne oder braune Linsen\n" +
       "  - 1 Dose gewürfelte Tomaten (400 g)\n" +
@@ -29,7 +29,7 @@ export const RECIPES = [
   {
     id: 2,
     title: "2. Süßkartoffel-Curry",
-    description: "### 9. **Süßkartoffel-Curry mit Erdnüssen und Kokosmilch**\n" +
+    description: "### **Süßkartoffel-Curry mit Erdnüssen und Kokosmilch**\n" +
   "**Zutaten:**\n" +
   "  - 2 Süßkartoffeln, gewürfelt\n" +
   "  - 1 Dose Kokosmilch (400 ml)\n" +
@@ -56,7 +56,7 @@ export const RECIPES = [
   {
     id: 3,
     title: "3. Tempeh-Stir-Fry",
-    description: "### 6. **Tempeh-Stir-Fry mit Brokkoli, Pilzen und Tahini-Soja-Glasur**\n" +
+    description: "### **Tempeh-Stir-Fry mit Brokkoli, Pilzen und Tahini-Soja-Glasur**\n" +
       "**Zutaten:**\n" +
       "  - 200 g Tempeh, in Streifen geschnitten\n" +
       "  - 1 Kopf Brokkoli, in Röschen zerteilt\n" +
@@ -83,7 +83,7 @@ export const RECIPES = [
   {
     id: 4,
     title: "4. Zucchini-Nudeln",
-    description: "### 4. **Zucchini-Nudeln mit Avocado-Pesto und gerösteten Pinienkernen**\n" +
+    description: "### **Zucchini-Nudeln mit Avocado-Pesto und gerösteten Pinienkernen**\n" +
       "**Zutaten:**\n" +
       "  - 3 große Zucchini, spiralisiert\n" +
       "  - 1 reife Avocado\n" +
@@ -106,7 +106,7 @@ export const RECIPES = [
   {
     id: 5,
     title: "5. Kichererbsen-Curry",
-    description: "### 5. **Kichererbsen-Curry mit Grünkohl, Süßkartoffeln und Kokosmilch**\n" +
+    description: "### **Kichererbsen-Curry mit Grünkohl, Süßkartoffeln und Kokosmilch**\n" +
       "**Zutaten:**\n" +
       "  - 1 Dose Kichererbsen, abgetropft und abgespült\n" +
       "  - 2 Süßkartoffeln, gewürfelt\n" +
@@ -135,7 +135,7 @@ export const RECIPES = [
   {
     id: 6,
     title: "6. Quinoa-Bowl",
-    description: "### 6. **Quinoa-Bowl mit geröstetem Tofu, Avocado und Mango-Limetten-Dressing**\n" +
+    description: "###  **Quinoa-Bowl mit geröstetem Tofu, Avocado und Mango-Limetten-Dressing**\n" +
       "**Zutaten:**\n" +
       "  - 200 g Quinoa\n" +
       "  - 200 g Tofu, in Würfel geschnitten\n" +
@@ -165,7 +165,7 @@ export const RECIPES = [
   {
     id: 7,
     title: "7. Linsensalat",
-    description: "### 1. **Linsensalat mit geröstetem Gemüse und Tahini-Zitronen-Dressing**\n" +
+    description: "### **Linsensalat mit geröstetem Gemüse und Tahini-Zitronen-Dressing**\n" +
       "**Zutaten:**\n" +
       "  - 200 g grüne oder schwarze Linsen\n" +
       "  - 1 Süßkartoffel, gewürfelt\n" +
@@ -197,7 +197,7 @@ export const RECIPES = [
   {
     id: 8,
     title: "8. Linsencurry mit Kokosmilch und Spinat",
-    description: "8. Linsencurry mit Kokosmilch und Spinat\n" +
+    description: " Linsencurry mit Kokosmilch und Spinat\n" +
       "Ein reichhaltiges, aromatisches Curry mit proteinreichen Linsen, cremiger Kokosmilch und frischem Spinat. Es ist vollgepackt mit Ballaststoffen, Antioxidantien und gesunden Fetten.\n" +
       "\n" +
       "**Zutaten:**\n" +
