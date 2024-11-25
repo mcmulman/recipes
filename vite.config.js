@@ -6,6 +6,7 @@ export default defineConfig({
   plugins: [react()],
   build: {
     outDir: './docs',
+    relative: true, // necessary for GitHub Pages
     emptyOutDir: true, // also necessary
   }
 });
