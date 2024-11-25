@@ -22,21 +22,22 @@ function Recipes() {
     <>
       <Section>
         <div style={{display: 'flex', justifyContent: 'center', gap: '24px'}}>
-            <input name="searchTitle" placeholder='Im Titel suchen' onChange={handleSearch}/>
-            <input name="searchDesc" placeholder='Im Text suchen' onChange={handleSearch}/>
+          <input name="searchTitle" placeholder='Im Titel suchen' onChange={handleSearch}/>
+          <input name="searchDesc" placeholder='Im Text suchen' onChange={handleSearch}/>
         </div>
       </Section>
-
+      <p style={{textAlign: 'center'}}><strong>{filteredSearch.length} / {RECIPES.length}</strong></p>
       <Section title={''} className={'examples'}>
         <Tabs
           wrapperType={'menu'}
           buttons={filteredSearch.map((element, index) => (
-            <TabButton key={index-1} onTabSelect={() => onTabSelect(element.id)} active={activeTab === element.id}>{element.title}</TabButton>
+            <TabButton key={index - 1} onTabSelect={() => onTabSelect(element.id)}
+                       active={activeTab === element.id}>{element.title}</TabButton>
           ))}
         >
           {activeTab && (
             <div className={'tab-content'}>
-              <Recipe {...RECIPES[activeTab-1]} />
+              <Recipe {...RECIPES[activeTab - 1]} />
             </div>
           )}
         </Tabs>
