@@ -22,11 +22,11 @@ function Recipes() {
     <>
       <Section>
         <div style={{display: 'flex', justifyContent: 'center', gap: '24px'}}>
-          <div style={{display: 'flex', justifyContent: 'center', gap: '6px'}}>
+          <div style={{display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px'}}>
             <label htmlFor='search'>Search in title:&nbsp;
             </label><input name="searchTitle" placeholder='Search in title' onChange={handleSearch}/>
           </div>
-          <div style={{display: 'flex', justifyContent: 'center', gap: '6px'}}>
+          <div style={{display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px'}}>
             <label htmlFor='searchDesc'>Search in description:&nbsp;</label>
             <input name="searchDesc" placeholder='Search in description' onChange={handleSearch}/>
           </div>

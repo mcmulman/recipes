@@ -65,3 +65,12 @@ main h2 {
 .tab-content code {
   font-size: 1rem;
 }
+
+input {
+  padding: 0.75rem;
+  font-size: 1rem;
+  border-radius: 4px;
+  border: none;
+  background-color: #2f1d43;
+  color: #ebe7ef;
+}
