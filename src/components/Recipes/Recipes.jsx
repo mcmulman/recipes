@@ -18,12 +18,19 @@ function Recipes() {
     setFilteredSearch(RECIPES.filter(recipe => recipe[type].toLowerCase().includes(event.target.value.toLowerCase())));
   }
 
+  function handleReload() {
+    setFilteredSearch(RECIPES);
+    document.getElementById('searchTitle').value = '';
+    document.getElementById('searchDescription').value = '';
+  }
+
   return (
     <>
       <Section>
-        <div style={{display: 'flex', justifyContent: 'center', gap: '24px'}}>
-          <input name="searchTitle" placeholder='Im Titel suchen' onChange={handleSearch}/>
-          <input name="searchDesc" placeholder='Im Text suchen' onChange={handleSearch}/>
+        <div id="searchForm">
+          <input id="searchTitle" name="searchTitle" placeholder='Im Titel suchen' onChange={handleSearch}/>
+          <input id="searchDesc" name="searchDesc" placeholder='Im Text suchen' onChange={handleSearch}/>
+          <button id="searchReset" style={{fontSize: '2em'}} onClick={handleReload}>⟳</button>
         </div>
       </Section>
       <p style={{textAlign: 'center'}}><strong>{filteredSearch.length} / {RECIPES.length}</strong></p>

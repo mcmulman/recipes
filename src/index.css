@@ -44,11 +44,12 @@ main h2 {
   margin: 1rem 0;
   padding: 0;
   display: flex;
-  gap: 0.5rem;
+  gap: 0.8rem;
   list-style: none;
   flex-wrap: wrap;
-  flex-direction: row;
-  align-items: flex-start;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .tab-content {
@@ -73,4 +74,27 @@ input {
   border: none;
   background-color: #023734;
   color: #ebe7ef;
+}
+
+#searchForm {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+@media (min-width: 600px) {
+
+  .examples menu {
+    flex-direction: row;
+  }
+
+  #searchForm {
+    flex-direction: row;
+  }
+
+  #searchDesc {
+    order: 3;
+  }
 }
