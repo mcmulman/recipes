@@ -398,22 +398,44 @@ export const RECIPES = [
   },
   {
     id: 14,
-    title: "14. Spaghetti mit Tomatensauce",
-    description: "### Vegane Spaghetti mit Tomatensauce\n" +
+    title: "14. Polenta mit Pilzen und Spinat",
+    description: "### Cremige Vegane Polenta mit Pilzen und Spinat\n" +
+      "\n" +
       "**Zutaten:**\n" +
-      "- 250 g Spaghetti (oder eine andere Pastasorte)\n" +
-      "- 1 Dose stückige Tomaten\n" +
-      "- 1 Zwiebel (gehackt)\n" +
-      "- 2 Knoblauchzehen (gehackt)\n" +
-      "- Frisches Basilikum (oder getrocknet)\n" +
-      "- Olivenöl\n" +
-      "- Salz und Pfeffer\n" +
+      "**Polenta (Grundrezept):** \n" +
+      "- 150 g Polenta (Maisgrieß)* \n" +
+      "- 200 ml Kokosmilch* \n" +
+      "- 300 ml Gemüsebrühe \n" +
+      "- 2-3 EL Hefeflocken oder veganer Parmesan (optional) \n" +
+      "**Pilz-Spinat Topping:**\n" +
+      "- 1 EL Olivenöl (oder Kokosöl)\n" +
+      "- 1 Zwiebel gewürfelt\n" +
+      "- 200 g Pilze in Scheiben geschnitten\n" +
+      "- 2 Knoblauchzehen gehackt\n" +
+      "- 1-2 EL Sojasauce\n" +
+      "- 200 g Spinat grob gehackt\n" +
+      "- Salz, Pfeffer (nach Geschmack)\n" +
+      "- 1 Spritzer Limettensaft (optional)\n" +
+      "- 2-3 EL Pinienkerne\n" +
       "\n" +
       "**Zubereitung:**\n" +
-      "1. Koche die Spaghetti nach Packungsanweisung.\n" +
-      "2. In einer Pfanne das Olivenöl erhitzen, Zwiebel und Knoblauch darin anbraten.\n" +
-      "3. Die stückigen Tomaten hinzufügen und mit Salz, Pfeffer und Basilikum würzen. Lass die Sauce ca. 15 Minuten köcheln.\n" +
-      "4. Die gekochten Spaghetti mit der Sauce vermengen und servieren.\n"
+      "\n" +
+      "**Polenta:**\n" +
+      "1. Kokosmilch und Gemüsebrühe in einem Topf zum Kochen bringen. Dann die Polenta mit einem Schneebesen einrühren. Etwa 1-2 Minuten weiter rühren, um Klumpen zu vermeiden. Die Hitze auf niedrige Stufe reduzieren. \n" +
+      "2. Den Topf mit einem Deckel abdecken und die Polenta ca. 10 Minuten ausquellen lassen (oder laut Packungsanleitung*), dabei gelegentlich umrühren. (Sollte die Polenta zu dick werden, etwas mehr Milch und/ oder Wasser einrühren.)\n" +
+      "3. Die Polenta ist fertig, sobald sie schön cremig ist. Optional kann man dann noch Hefeflocken oder veganen Parmesan unterrühren.\n" +
+      "\n" +
+      "**Pilz Spinat Topping:**\n" +
+      "\n" +
+      "1. Öl in einer Pfanne erhitzen. Die Pilze zusammen mit den Zwiebeln hinzugeben und ca. 3 Minuten bei hoher Hitze anbraten, bis sie leicht gebräunt sind.\n" +
+      "2. Den gehackten Knoblauch hinzufügen und etwa 30 Sekunden lang mitrösten. Dann mit Sojasoße ablöschen. Die Hitze reduzieren, Spinat hinzugeben und für weitere 1-2 Minuten dünsten, bis der Spinat zusammengefallen ist. Mit Salz und Pfeffer abschmecken. Ggf. mit einem Spritzer frischen Limettensaft abrunden, wenn man mag. \n" +
+      "3. Pinienkerne in einer kleinen Pfanne ohne Öl rösten. \n" +
+      "4. Die Polenta mit Pilzen, Spinat und Pinienkernen servieren und sofort verzehren, solange sie noch warm und schön cremig ist.\n" +
+      "\n" +
+      "**Notizen:**\n" +
+      "- Damit es noch cremiger wird und schneller zubereitet ist, verwende ich am liebsten fein gemahlene Polenta mit geringer Kochzeit. Solltest du normalen groben Maisgrieß verwenden, beachte bitte die angegebene Kochzeit auf der Verpackung. Ansonsten kannst du auch einfaches Maismehl verwenden.\n" +
+      "- Anstelle von Kokosmilch kannst du auch andere (pflanzliche) Milch nach Belieben verwenden. Falls die Milch einen geringen Fettanteil hat, kannst du noch 1 EL vegane Butter (Alsan) hinzugeben.\n" +
+      "\n"
   },
   {
     id: 15,
