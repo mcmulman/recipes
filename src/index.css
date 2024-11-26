@@ -41,7 +41,7 @@ main h2 {
 }
 
 .examples menu {
-  margin: 1rem 0;
+  margin: .6rem 0 2rem;
   padding: 0;
   display: flex;
   gap: 0.8rem;
@@ -50,6 +50,10 @@ main h2 {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.examples.hide-tabs menu {
+  display: none;
 }
 
 .tab-content {
@@ -88,6 +92,41 @@ input {
   cursor: pointer;
   font-size: 2em;
   padding-inline: 10px;
+}
+
+#toggleMenu {
+  cursor: pointer;
+  font-size: 1.2em;
+  font-weight: bold;
+  padding: 12px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+/* Style the hamburger menu */
+#toggleMenu img {
+  margin-right: 12px;
+  max-width: 30px;
+}
+
+
+#toggleMenu img.hide {
+  display: none;
+}
+
+/* Add a grey background color on mouse-over */
+#toggleMenu:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+  color: white;
+}
+
+/* Style the active link (or home/logo) */
+#toggleMenu.active {
+  background-color: #04AA6D;
+  color: white;
 }
 
 @media (min-width: 600px) {

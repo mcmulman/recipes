@@ -4,10 +4,13 @@ import TabButton from "../Elements/TabButton/TabButton";
 import Recipe from "./Recipe";
 import Section from "../Elements/Section";
 import Tabs from "../Elements/TabButton/Tabs";
+import offImg from '../../assets/off.svg';
+import onImg from '../../assets/on.svg';
 
 function Recipes() {
   const [activeTab, setActiveTab] = useState('');
   const [filteredSearch, setFilteredSearch] = useState(RECIPES);
+  const [showTabs, setShowTabs] = useState(true);
 
   function onTabSelect(tab) {
     setActiveTab(tab);
@@ -20,8 +23,13 @@ function Recipes() {
 
   function handleReload() {
     setFilteredSearch(RECIPES);
+    setShowTabs(true);
     document.getElementById('searchTitle').value = '';
     document.getElementById('searchDescription').value = '';
+  }
+
+  function toggleMenu() {
+    !!activeTab && setShowTabs(!showTabs);
   }
 
   return (
@@ -34,7 +42,10 @@ function Recipes() {
         </div>
       </Section>
       <p style={{textAlign: 'center'}}><strong>{filteredSearch.length} / {RECIPES.length}</strong></p>
-      <Section title={''} className={'examples'}>
+      <p id={'toggleMenu'} onClick={toggleMenu}>
+        <img src={offImg} className={showTabs ? 'show' : 'hide'} width={'60'} />
+        <img src={onImg} className={showTabs ? 'hide' : 'show'} width={'60'} /> Navi</p>
+      <Section title={''} className={showTabs ? 'examples' : 'examples hide-tabs'}>
         <Tabs
           wrapperType={'menu'}
           buttons={filteredSearch.map((element, index) => (
