@@ -234,7 +234,7 @@ export const RECIPES = [
   },
   {
     id: 9,
-    title: "9. Veganer Shepherd’s Pie",
+    title: "9. Shepherd’s Pie",
     description: "### Ein traditionelles britisches Gericht, das normalerweise mit Hackfleisch zubereitet wird. In der veganen Version wird es mit Linsen und einer cremigen Kartoffeldecke serviert. Herzhaft und sättigend!\n" +
       "\n" +
       "**Zutaten:**\n" +
@@ -263,7 +263,7 @@ export const RECIPES = [
   },
   {
     id: 10,
-    title: "10. Veganer \"Chicken\" Tikka Masala\n",
+    title: "10. \"Chicken\" Tikka Masala\n",
     description: "### Dieses aromatische, indische Gericht wird ohne Hühnchen zubereitet, stattdessen wird Tofu oder Seitan verwendet. Es ist vollgepackt mit Gewürzen und einer cremigen Tomatensauce, die es zu einem herzhaften Favoriten macht.\n" +
       "\n" +
       "**Zutaten:**\n" +
@@ -295,7 +295,7 @@ export const RECIPES = [
   },
   {
     id: 11,
-    title: "11. Veganes Chili",
+    title: "11. Chili",
     description: "### Ein besonderes veganes Chili lässt sich wunderbar mit verschiedenen pflanzlichen Zutaten zubereiten, die dem Gericht Tiefe und Komplexität verleihen. In diesem Rezept kombiniere ich reichhaltige Bohnen, Gemüse und Gewürze zu einem herzhaften, aromatischen Chili, das durch geräucherte Paprika und dunkle Schokolade eine besondere Note bekommt.\n" +
       "\n" +
       "**Zutaten:**\n" +
@@ -359,5 +359,271 @@ export const RECIPES = [
       "- Fleischiger: Falls du es \"fleischiger\" magst, kannst du auch veganes Hack (z.B. aus Soja oder Erbsenprotein) in das Chili geben.\n" +
       "- Räucher-Note: Wenn du eine noch intensivere rauchige Note möchtest, kannst du auch zusätzlich etwas Liquid Smoke oder geräuchertes Paprikapulver verwenden.\n" +
       "- Dieses vegane Chili ist besonders durch die Kombination aus Gewürzen, der dunklen Schokolade und der Süße des Ahornsirups ein wahres Geschmackserlebnis. Viel Spaß beim Kochen!",
-  }
+  },
+  {
+    id: 12,
+    title: "12. Buddha Bowl",
+    description: "### Vegane Buddha Bowl\n" +
+      "**Zutaten:**\n" +
+      "- Quinoa oder Reis (als Basis)\n" +
+      "- Kichererbsen (gekocht)\n" +
+      "- Avocado (in Scheiben)\n" +
+      "- Frisches Gemüse (z.B. Spinat, Karotten, Paprika)\n" +
+      "- Tahini-Dressing (Tahini, Zitronensaft, Wasser, Knoblauch)\n" +
+      "\n" +
+      "**Zubereitung:**\n" +
+      "1. Koche die Quinoa oder den Reis nach Anleitung.\n" +
+      "2. Mische das gekochte Getreide mit den Kichererbsen und dem frischen Gemüse in einer Schüssel.\n" +
+      "3. Bereite das Tahini-Dressing zu und träufele es über die Bowl.\n" +
+      "4. Füge die Avocado-Scheiben hinzu und genieße!"
+  },
+  {
+    id: 13,
+    title: "13. Linsensuppe",
+    description: "### Vegane Linsensuppe\n" +
+      "**Zutaten:**\n" +
+      "- 200 g grüne oder braune Linsen\n" +
+      "- 1 Zwiebel (gehackt)\n" +
+      "- 2 Karotten (in Würfeln)\n" +
+      "- 2 Selleriestangen (in Würfeln)\n" +
+      "- 1 Dose Tomaten (stückig)\n" +
+      "- Gemüsebrühe\n" +
+      "- Gewürze (z.B. Kreuzkümmel, Paprika, Salz, Pfeffer)\n" +
+      "\n" +
+      "**Zubereitung:**\n" +
+      "1. Zwiebel, Karotten und Sellerie in einem Topf mit etwas Öl anbraten.\n" +
+      "2. Linsen und Tomaten hinzufügen, mit Gemüsebrühe aufgießen.\n" +
+      "3. Mit Gewürzen abschmecken und ca. 30 Minuten köcheln lassen, bis die Linsen weich sind.\n" +
+      "4. Serviere die Suppe heiß mit frischem Brot.",
+  },
+  {
+    id: 14,
+    title: "14. Spaghetti mit Tomatensauce",
+    description: "### Vegane Spaghetti mit Tomatensauce\n" +
+      "**Zutaten:**\n" +
+      "- 250 g Spaghetti (oder eine andere Pastasorte)\n" +
+      "- 1 Dose stückige Tomaten\n" +
+      "- 1 Zwiebel (gehackt)\n" +
+      "- 2 Knoblauchzehen (gehackt)\n" +
+      "- Frisches Basilikum (oder getrocknet)\n" +
+      "- Olivenöl\n" +
+      "- Salz und Pfeffer\n" +
+      "\n" +
+      "**Zubereitung:**\n" +
+      "1. Koche die Spaghetti nach Packungsanweisung.\n" +
+      "2. In einer Pfanne das Olivenöl erhitzen, Zwiebel und Knoblauch darin anbraten.\n" +
+      "3. Die stückigen Tomaten hinzufügen und mit Salz, Pfeffer und Basilikum würzen. Lass die Sauce ca. 15 Minuten köcheln.\n" +
+      "4. Die gekochten Spaghetti mit der Sauce vermengen und servieren.\n"
+  },
+  {
+    id: 15,
+    title: "15. Tacos mit schwarzen Bohnen",
+    description: "### Vegane Tacos mit schwarzen Bohnen\n" +
+      "**Zutaten:**\n" +
+      "- Tortillas (Mais oder Weizen)\n" +
+      "- 1 Dose schwarze Bohnen (abgespült und abgetropft)\n" +
+      "- 1 Avocado (zerdrückt)\n" +
+      "- 1 kleine rote Zwiebel (gehackt)\n" +
+      "- 1 Paprika (gewürfelt)\n" +
+      "- Limettensaft\n" +
+      "- Frischer Koriander (optional)\n" +
+      "- Gewürze (z.B. Kreuzkümmel, Chili)\n" +
+      "\n" +
+      "**Zubereitung:**\n" +
+      "1. Die schwarzen Bohnen in einer Pfanne mit Gewürzen und Limettensaft kurz erhitzen.\n" +
+      "2. Tortillas aufwärmen und mit zerdrückter Avocado, Bohnen, Zwiebel und Paprika füllen.\n" +
+      "3. Mit frischem Koriander garnieren und servieren.",
+  },
+  {
+    id: 16,
+    title: "16. Curry mit Kokosmilch",
+    description: "### Veganes Curry mit Kokosmilch\n" +
+      "**Zutaten:**\n" +
+      "- 1 Dose Kokosmilch\n" +
+      "- 200 g Gemüse (z.B. Brokkoli, Süßkartoffeln, Karotten)\n" +
+      "- 1 Zwiebel (gehackt)\n" +
+      "- 2 Knoblauchzehen (gehackt)\n" +
+      "- 1 Stück Ingwer (gerieben)\n" +
+      "- 2 TL Currypulver\n" +
+      "- Frischer Koriander (zum Garnieren)\n" +
+      "- Salz und Pfeffer\n" +
+      "\n" +
+      "**Zubereitung:**\n" +
+      "1. In einem Topf Zwiebel, Knoblauch und Ingwer in etwas Öl anbraten.\n" +
+      "2. Das Gemüse hinzufügen und kurz anbraten, dann das Currypulver einrühren.\n" +
+      "3. Die Kokosmilch hinzufügen und das Curry ca. 20 Minuten köcheln lassen, bis das Gemüse gar ist.\n" +
+      "4. Mit Salz und Pfeffer abschmecken und mit frischem Koriander servieren.\n",
+  },
+  {
+    id: 17,
+    title: "17. Jackfrucht-Tacos",
+    description: "### **Vegane Jackfrucht-Tacos**\n" +
+      "\n" +
+      "#### Zutaten:\n" +
+      "- 1 Dose junge Jackfrucht in Salzlake\n" +
+      "- 1 Zwiebel, gewürfelt\n" +
+      "- 2 Knoblauchzehen, gehackt\n" +
+      "- 1 TL Kreuzkümmel\n" +
+      "- 1 TL Paprikapulver\n" +
+      "- 1 TL Chili-Pulver\n" +
+      "- 1 Limette, Saft und Schale\n" +
+      "- Tortillas\n" +
+      "- Frischer Koriander und Avocado zum Servieren\n" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. Die Jackfrucht abspülen und abtropfen lassen. In einer Pfanne mit etwas Öl die Zwiebel und den Knoblauch anbraten.\n" +
+      "2. Die Jackfrucht hinzufügen und mit den Gewürzen vermengen. Für ca. 10-15 Minuten bei mittlerer Hitze schmoren lassen.\n" +
+      "3. Mit Limettensaft und -schale abschmecken.\n" +
+      "4. In Tortillas füllen und mit Koriander und Avocado servieren."
+  },
+  {
+    id: 18,
+    title: "18. Cashew-Pasta mit Spinat",
+    description: "### **Cremige Cashew-Pasta mit Spinat**\n" +
+      "\n" +
+      "#### Zutaten:\n" +
+      "- 250g Pasta (z.B. Penne)\n" +
+      "- 100g Cashewkerne (über Nacht eingeweicht)\n" +
+      "- 2 Knoblauchzehen\n" +
+      "- 1 Tasse Cashew-Milch\n" +
+      "- 200g frischer Spinat\n" +
+      "- Salz und Pfeffer nach Geschmack\n" +
+      "- Olivenöl\n" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. Die Pasta nach Packungsanweisung kochen.\n" +
+      "2. In einem Mixer die eingeweichten Cashewkerne, Knoblauch und Cashew-Milch zu einer cremigen Sauce pürieren.\n" +
+      "3. Den Spinat in einer Pfanne mit etwas Olivenöl andünsten.\n" +
+      "4. Die gekochte Pasta und die Cashew-Sauce hinzufügen und alles gut vermengen. Mit Salz und Pfeffer abschmecken."
+  },
+  {
+    id: 19,
+    title: "19. Süßkartoffel-Burger",
+    description: "### 3. **Süßkartoffel-Burger mit Linsen**\n" +
+      "\n" +
+      "#### Zutaten:\n" +
+      "- 2 große Süßkartoffeln, gekocht und püriert\n" +
+      "- 200g grüne oder braune Linsen, gekocht\n" +
+      "- 1 Zwiebel, gewürfelt\n" +
+      "- 2 Knoblauchzehen, gehackt\n" +
+      "- 1 TL Kreuzkümmel\n" +
+      "- 1 TL Chiliflocken\n" +
+      "- 1 Tasse Haferflocken\n" +
+      "- Burger-Brötchen\n" +
+      "- Salat und Tomate zum Servieren\n" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. Die Zwiebel und den Knoblauch in einer Pfanne anbraten.\n" +
+      "2. In einer Schüssel die Süßkartoffeln, Linsen, Zwiebel, Knoblauch, Gewürze und Haferflocken vermengen. Bei Bedarf mit Wasser anpassen, bis eine formbare Masse entsteht.\n" +
+      "3. Aus der Mischung Patties formen und diese in einer Pfanne braten, bis sie goldbraun sind.\n" +
+      "4. In Burger-Brötchen mit Salat und Tomate servieren."
+  },
+  {
+    id: 20,
+    title: "20. Chili sin Carne",
+    description: "### **Chili sin Carne**\n" +
+      "\n" +
+      "#### Zutaten:\n" +
+      "- 1 Dose Kidneybohnen\n" +
+      "- 1 Dose schwarze Bohnen\n" +
+      "- 1 Dose Kichererbsen\n" +
+      "- 1 große Zwiebel, gewürfelt\n" +
+      "- 2 Knoblauchzehen, gehackt\n" +
+      "- 1 Paprika, gewürfelt\n" +
+      "- 2 Dosen gehackte Tomaten\n" +
+      "- 2 TL Kreuzkümmel\n" +
+      "- 1 TL Paprikapulver\n" +
+      "- 1 TL Chili-Pulver\n" +
+      "- Salz und Pfeffer\n" +
+      "- Frischer Koriander und Avocado zum Garnieren\n" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. In einem großen Topf die Zwiebel und den Knoblauch anbraten.\n" +
+      "2. Paprika hinzufügen und kurz mitbraten.\n" +
+      "3. Alle Bohnen, gehackte Tomaten und Gewürze hinzufügen. Zum Kochen bringen und 20-30 Minuten köcheln lassen.\n" +
+      "4. Mit Koriander und Avocado garnieren und servieren."
+  },
+  {
+    id: 21,
+    title: "21. Gefüllte Paprika",
+    description: "### **Gefüllte Paprika mit Quinoa und Gemüse**\n" +
+      "\n" +
+      "#### Zutaten:\n" +
+      "- 4 große Paprika (rot oder gelb)\n" +
+      "- 1 Tasse Quinoa\n" +
+      "- 2 Tassen Gemüsebrühe\n" +
+      "- 1 Zucchini, gewürfelt\n" +
+      "- 1 Karotte, gewürfelt\n" +
+      "- 1 TL Oregano\n" +
+      "- 1 TL Thymian\n" +
+      "- Salz und Pfeffer\n" +
+      "- Olivenöl\n" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. Quinoa in Gemüsebrühe nach Packungsanweisung kochen.\n" +
+      "2. In einer Pfanne das Gemüse mit Olivenöl anbraten und mit Oregano, Thymian, Salz und Pfeffer würzen.\n" +
+      "3. Die gekochte Quinoa und das Gemüse vermischen.\n" +
+      "4. Die Paprika entkernen, mit der Quinoa-Gemüse-Mischung füllen und im Ofen bei 180°C ca. 25-30 Minuten backen."
+  },
+  {
+    id: 22,
+    title: "22. Bolognese mit Linsen und Nüssen",
+    description: "### 6. **Vegane Bolognese mit Linsen und Nüssen**\n" +
+      "\n" +
+      "#### Zutaten:\n" +
+      "- 1 Tasse grüne oder braune Linsen, gekocht\n" +
+      "- 1 Tasse Walnüsse, gehackt\n" +
+      "- 1 große Zwiebel, gewürfelt\n" +
+      "- 2 Karotten, gewürfelt\n" +
+      "- 2 Selleriestangen, gewürfelt\n" +
+      "- 2 Dosen gehackte Tomaten\n" +
+      "- 2 TL italienische Kräuter\n" +
+      "- 1 TL Balsamico-Essig\n" +
+      "- Salz und Pfeffer\n" +
+      "- Spaghetti oder andere Pasta\n" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. Zwiebel, Karotten und Sellerie in einer Pfanne anbraten, bis sie weich sind.\n" +
+      "2. Walnüsse und Linsen hinzufügen und kurz mitbraten.\n" +
+      "3. Die gehackten Tomaten, italienische Kräuter und Balsamico-Essig hinzufügen. 20-30 Minuten köcheln lassen.\n" +
+      "4. Mit gekochten Spaghetti servieren."
+  },
+  {
+    id: 23,
+    title: "23. Polenta Variationen",
+    description: "1. **Trüffelöl**: Ein paar Tropfen hochwertiges Trüffelöl über die fertige Polenta geben für ein luxuriöses Aroma.\n" +
+      "\n" +
+      "2. **Karamellisierte Zwiebeln**: Süßliche, karamellisierte Zwiebeln oder Schalotten als Topping bringen eine besondere Note.\n" +
+      "\n" +
+      "3. **Vegane Käsealternativen**: Verwendet veganen Parmesan oder andere Käsealternativen, die geschmolzen oder darüber gestreut werden können.\n" +
+      "\n" +
+      "4. **Artischocken und Oliven**: Gebratene Artischockenherzen und schwarze Oliven geben den Gerichten einen mediterranen Flair.\n" +
+      "\n" +
+      "5. **Röstgemüse mit Kräutern**: Verwende exotisches Gemüse wie Babykarotten, Topinambur oder japanische Süßkartoffeln, gewürzt mit frischen Kräutern.\n" +
+      "\n" +
+      "6. **Nuss- oder Saatencrust**: Eine knusprige Kruste aus gehackten Nüssen oder Samen, die in einer Pfanne geröstet wird, sorgt für einen Crunch.\n" +
+      "\n" +
+      "7. **Süße Variationen**: Versuche eine süße Variante mit Ahornsirup, Kokosmilch und frischen Früchten für ein ausgefallenes Dessert.\n" +
+      "\n" +
+      "8. **Exotische Saucen**: Eine Mangosauce oder Curry-Sauce aus Kokosmilch kann der Polenta eine ganz neue Dimension verleihen.\n" +
+      "\n" +
+      "Mit diesen Zutaten und Zubereitungsarten wird deine Polenta zu einem extravagantem Highlight auf jedem Tisch!\n" +
+      "Polenta ist ein vielseitiges Gericht, das sich gut mit verschiedenen veganen Beilagen kombinieren lässt. Hier sind einige Vorschläge:\n" +
+      "\n" +
+      "1. **Gemüse**: Gegrilltes oder gebratenes Gemüse wie Zucchini, Paprika, Auberginen oder Spargel passt hervorragend.\n" +
+      "\n" +
+      "2. **Pilze**: Eine Pilzpfanne, z.B. mit Champignons, Pfifferlingen oder Shiitake, lässt sich gut auf Polenta servieren.\n" +
+      "\n" +
+      "3. **Tomatensauce**: Eine würzige Marinara- oder Ratatouille-Sauce kann der Polenta einen tollen Geschmack verleihen.\n" +
+      "\n" +
+      "4. **Pesto**: Vegan zubereitetes Pesto aus Basilikum, Nüssen und Olivenöl kann einen aromatischen Akzent setzen.\n" +
+      "\n" +
+      "5. **Hülsenfrüchte**: Kichererbsen oder Linsen in einer herzhaften Sauce sind nahrhaft und ergänzen die Polenta gut.\n" +
+      "\n" +
+      "6. **Grüne Blätter**: Gedünstete Spinat- oder Mangoldblätter, eventuell mit Knoblauch und Zitrone, passen wunderbar.\n" +
+      "\n" +
+      "7. **Nüsse und Samen**: Geröstete Pinienkerne oder Walnüsse können als Topping verwendet werden."
+  },
+
+
 ];
