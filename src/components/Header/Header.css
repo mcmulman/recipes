@@ -4,9 +4,10 @@ header {
   margin: 1.4rem 0;
 }
 
-header img {
+#recipeImg {
   height: 2.6rem;
   object-fit: contain;
+  margin-right: .2rem;
   display: none;
 }
 
@@ -36,7 +37,7 @@ header p {
         font-size: 3.5rem;
     }
 
-    header img {
+    #recipeImg {
       display: initial;
     }
 }
