@@ -30,7 +30,7 @@ function Recipes() {
         <div id="searchForm">
           <input id="searchTitle" name="searchTitle" placeholder='Im Titel suchen' onChange={handleSearch}/>
           <input id="searchDesc" name="searchDesc" placeholder='Im Text suchen' onChange={handleSearch}/>
-          <button id="searchReset" style={{fontSize: '2em'}} onClick={handleReload}>⟳</button>
+          <button id="searchReset" onClick={handleReload}>⟳</button>
         </div>
       </Section>
       <p style={{textAlign: 'center'}}><strong>{filteredSearch.length} / {RECIPES.length}</strong></p>

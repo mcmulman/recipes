@@ -79,9 +79,15 @@ input {
 #searchForm {
   display: flex;
   justify-content: center;
-  gap: 24px;
+  gap: 18px;
   flex-wrap: wrap;
   flex-direction: column;
+}
+
+#searchReset {
+  cursor: pointer;
+  font-size: 2em;
+  padding-inline: 10px;
 }
 
 @media (min-width: 600px) {
