@@ -18,6 +18,7 @@ function Recipes() {
 
   function handleSearch(e) {
     const type = e.target.name === 'searchDesc' ? 'description' : 'title';
+    setShowTabs(true);
     setFilteredSearch(RECIPES.filter(recipe => recipe[type].toLowerCase().includes(event.target.value.toLowerCase())));
   }
 
