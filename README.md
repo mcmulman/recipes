@@ -26,4 +26,4 @@ https://mcmulman.github.io/recipes/
 
 ### Info
 
-    - files in /public/ are copied to the root of the build and are accessible at the root of the deployed site
+    - files in /public/ are copied to the root of the build and are accessible at the root of the deployed site vs. /assets/

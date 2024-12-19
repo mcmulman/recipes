@@ -14,6 +14,7 @@ function Recipes() {
 
   function onTabSelect(tab) {
     setActiveTab(tab);
+    setShowTabs(false);
   }
 
   function handleSearch(e) {
