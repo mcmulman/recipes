@@ -802,4 +802,50 @@ export const RECIPES = [
       "5. Die Suppe etwa 30 Minuten köcheln lassen, bis das Gemüse weich ist.\n" +
       "6. Mit einem Pürierstab pürieren und nach Belieben mit frischen Kräutern oder einem Löffel pflanzlicher Joghurt servieren."
   },
+  {
+    id: 30,
+    title: "30. Rote-Bete-Suppe mit Apfel",
+    description: "### **Rote-Bete-Suppe mit Apfel**\n" +
+      "\n" +
+      "#### Zutaten:\n" +
+      "- 3 mittelgroße Rote Bete, geschält und gewürfelt\n" +
+      "- 1 Apfel, gewürfelt\n" +
+      "- 1 Zwiebel, gewürfelt\n" +
+      "- 2 Karotten, gewürfelt\n" +
+      "- 1,5 l Gemüsebrühe\n" +
+      "- 1 EL Apfelessig\n" +
+      "- 1 TL Kreuzkümmel\n" +
+      "- Salz und Pfeffer nach Geschmack\n" +
+      "- Frischer Dill zum Garnieren\n" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. In einem Topf das Olivenöl erhitzen und Zwiebel und Karotten anbraten.\n" +
+      "2. Die Rote Bete und den Apfel hinzufügen, mit Kreuzkümmel bestreuen und kurz mitbraten.\n" +
+      "3. Mit der Gemüsebrühe ablöschen und etwa 30 Minuten köcheln lassen, bis das Gemüse weich ist.\n" +
+      "4. Mit einem Pürierstab die Suppe pürieren und mit Apfelessig, Salz und Pfeffer abschmecken.\n" +
+      "5. Mit frischem Dill garnieren und servieren."
+  },
+  {
+    id: 31,
+    title: "31. Erbsensuppe mit Minze",
+    description: "### **Erbsensuppe mit Minze**\n" +
+      "\n" +
+      "#### Zutaten:\n" +
+      "- 500 g grüne Erbsen (frisch oder tiefgefroren)\n" +
+      "- 1 Zwiebel, gewürfelt\n" +
+      "- 2 Kartoffeln, gewürfelt\n" +
+      "- 1 Karotte, gewürfelt\n" +
+      "- 2 Knoblauchzehen, fein gehackt\n" +
+      "- 1 l Gemüsebrühe\n" +
+      "- 1 TL Zitronensaft\n" +
+      "- 1 Handvoll frische Minze\n" +
+      "- 1 EL Olivenöl\n" +
+      "- Salz und Pfeffer nach Geschmack\n" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. In einem Topf das Olivenöl erhitzen und Zwiebel, Knoblauch, Karotte und Kartoffeln darin anbraten.\n" +
+      "2. Die Erbsen und die Gemüsebrühe hinzufügen, zum Kochen bringen und etwa 20 Minuten köcheln lassen.\n" +
+      "3. Wenn das Gemüse weich ist, die Minze hinzufügen und mit einem Pürierstab die Suppe cremig pürieren.\n" +
+      "4. Mit Zitronensaft, Salz und Pfeffer abschmecken und servieren."
+  }
 ];
