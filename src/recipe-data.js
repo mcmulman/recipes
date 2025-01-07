@@ -646,6 +646,160 @@ export const RECIPES = [
       "\n" +
       "7. **Nüsse und Samen**: Geröstete Pinienkerne oder Walnüsse können als Topping verwendet werden."
   },
-
-
+  {
+    id: 24,
+    title: "24. Linsensuppe mit Gemüse",
+    description: "### **Linsensuppe mit Gemüse**\n" +
+      "\n" +
+      "#### Zutaten:\n" +
+      "- 200 g grüne oder braune Linsen\n" +
+      "- 1 Zwiebel, gewürfelt\n" +
+      "- 2 Karotten, in Scheiben geschnitten\n" +
+      "- 1 Selleriestange, in Würfel geschnitten\n" +
+      "- 2 Tomaten, gewürfelt\n" +
+      "- 2 Knoblauchzehen, fein gehackt\n" +
+      "- 1 TL Kreuzkümmel\n" +
+      "- 1 TL Paprikapulver\n" +
+      "- 1,5 l Gemüsebrühe\n" +
+      "- 1 EL Olivenöl\n" +
+      "- Salz und Pfeffer nach Geschmack\n" +
+      "- Frische Petersilie zum Garnieren\n" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. Die Linsen in einem Sieb abspülen.\n" +
+      "2. In einem großen Topf das Olivenöl erhitzen und Zwiebel, Knoblauch, Karotten und Sellerie anbraten.\n" +
+      "3. Die Tomaten und Gewürze hinzufügen und kurz mitbraten.\n" +
+      "4. Die Linsen und die Gemüsebrühe hinzufügen, aufkochen lassen und dann die Hitze reduzieren.\n" +
+      "5. Etwa 30-40 Minuten köcheln lassen, bis die Linsen weich sind.\n" +
+      "6. Mit Salz und Pfeffer abschmecken und mit frischer Petersilie garnieren."
+  },
+  {
+    id: 25,
+    title: "25. Asiatische Süßkartoffelsuppe",
+    description: "### **Asiatische Süßkartoffelsuppe**\n" +
+      "\n" +
+      "#### Zutaten:\n" +
+      "- 2 Süßkartoffeln, gewürfelt\n" +
+      "- 1 Zwiebel, gewürfelt\n" +
+      "- 1 Dose Kokosmilch (400 ml)\n" +
+      "- 500 ml Gemüsebrühe\n" +
+      "- 1 EL Erdnussbutter\n" +
+      "- 1 EL Sojasauce\n" +
+      "- 1 TL Ingwer, frisch gerieben\n" +
+      "- 1 TL Currypulver\n" +
+      "- 1 EL Limettensaft\n" +
+      "- Frische Korianderblätter zum Garnieren\n" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. In einem Topf das Olivenöl erhitzen und Zwiebel sowie Ingwer darin anbraten.\n" +
+      "2. Die Süßkartoffeln und Currypulver hinzufügen und kurz mitbraten.\n" +
+      "3. Mit Gemüsebrühe und Kokosmilch ablöschen und zum Kochen bringen.\n" +
+      "4. Etwa 20 Minuten köcheln lassen, bis die Süßkartoffeln weich sind.\n" +
+      "5. Die Erdnussbutter und Sojasauce einrühren und die Suppe pürieren.\n" +
+      "6. Mit Limettensaft abschmecken und mit frischem Koriander servieren."
+  },
+  {
+    id: 26,
+    title: "26. Tomaten-Basilikum-Suppe",
+    description: "### **Tomaten-Basilikum-Suppe**\n" +
+      "\n" +
+      "- 1,2 kg reife Tomaten (oder 2 Dosen gewürfelte Tomaten)\n" +
+      "- 1 Zwiebel, gewürfelt\n" +
+      "- 2 Knoblauchzehen, fein gehackt\n" +
+      "- 500 ml Gemüsebrühe\n" +
+      "- 1 EL Tomatenmark\n" +
+      "- 1 TL Zucker (optional)\n" +
+      "- 1 Handvoll frisches Basilikum\n" +
+      "- 2 EL Olivenöl\n" +
+      "- Salz und Pfeffer nach Geschmack\n" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. Die Tomaten kreuzweise einritzen und in heißem Wasser kurz blanchieren, dann häuten und grob hacken.\n" +
+      "2. In einem großen Topf das Olivenöl erhitzen und Zwiebel sowie Knoblauch darin anbraten, bis sie glasig sind.\n" +
+      "3. Tomatenmark einrühren und kurz anrösten, dann die Tomaten und Gemüsebrühe hinzufügen.\n" +
+      "4. Mit Salz, Pfeffer und optional etwas Zucker abschmecken.\n" +
+      "5. Die Suppe 20-30 Minuten köcheln lassen, dann mit einem Pürierstab pürieren.\n" +
+      "6. Frisches Basilikum einrühren und nach Belieben nochmals abschmecken."
+  },
+  {
+    id: 27,
+    title: "27. Gemüse-Linsensuppe",
+    description: "### **Gemüse-Linsensuppe**\n" +
+      "\n" +
+      "#### Zutaten:\n" +
+      "- 200 g grüne oder braune Linsen\n" +
+      "- 3 Karotten, gewürfelt\n" +
+      "- 2 Selleriestangen, gewürfelt\n" +
+      "- 1 Zucchini, gewürfelt\n" +
+      "- 1 Paprika, gewürfelt\n" +
+      "- 1 Zwiebel, gewürfelt\n" +
+      "- 2 Knoblauchzehen, fein gehackt\n" +
+      "- 1,5 l Gemüsebrühe\n" +
+      "- 2 TL Tomatenmark\n" +
+      "- 1 TL Kreuzkümmel\n" +
+      "- 1 TL Thymian\n" +
+      "- 1 EL Olivenöl\n" +
+      "- Salz und Pfeffer nach Geschmack\n" +
+      "- Frische Petersilie zum Garnieren\n" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. Die Linsen in einem Sieb abspülen.\n" +
+      "2. In einem großen Topf das Olivenöl erhitzen und Zwiebel und Knoblauch darin anbraten.\n" +
+      "3. Die Karotten, Sellerie, Zucchini und Paprika hinzufügen und kurz mitbraten.\n" +
+      "4. Tomatenmark, Kreuzkümmel und Thymian einrühren und mit der Gemüsebrühe ablöschen.\n" +
+      "5. Die Linsen hinzufügen und die Suppe etwa 30-40 Minuten köcheln lassen, bis die Linsen und das Gemüse weich sind.\n" +
+      "6. Mit Salz, Pfeffer und frischer Petersilie abschmecken und servieren."
+  },
+  {
+    id: 28,
+    title: "28. Süßkartoffel-Risotto",
+    description: "### **Süßkartoffel-Risotto**\n" +
+      "\n" +
+      "#### Zutaten:\n" +
+      "- 2 Süßkartoffeln, gewürfelt\n" +
+      "- 1 Zwiebel, gewürfelt\n" +
+      "- 1 Dose Kokosmilch (400 ml)\n" +
+      "- 500 ml Gemüsebrühe\n" +
+      "- 1 EL Erdnussbutter\n" +
+      "- 1 EL Sojasauce\n" +
+      "- 1 TL Ingwer, frisch gerieben\n" +
+      "- 1 TL Currypulver\n" +
+      "- 1 EL Limettensaft\n" +
+      "- Frische Korianderblätter zum Garnieren\n" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. In einem Topf das Olivenöl erhitzen und Zwiebel sowie Ingwer darin anbraten.\n" +
+      "2. Die Süßkartoffeln und Currypulver hinzufügen und kurz mitbraten.\n" +
+      "3. Mit Gemüsebrühe und Kokosmilch ablöschen und zum Kochen bringen.\n" +
+      "4. Etwa 20 Minuten köcheln lassen, bis die Süßkartoffeln weich sind.\n" +
+      "5. Die Erdnussbutter und Sojasauce einrühren und die Suppe pürieren.\n" +
+      "6. Mit Limettensaft abschmecken und mit frischem Koriander servieren."
+  },
+  {
+    id: 29,
+    title: "29. Tomaten-Gemüse-Suppe",
+    description: "### **Tomaten-Gemüse-Suppe**\n" +
+      "\n" +
+      "#### Zutaten:\n" +
+      "- 1,2 kg reife Tomaten, gewürfelt\n" +
+      "- 1 Zucchini, gewürfelt\n" +
+      "- 2 Karotten, gewürfelt\n" +
+      "- 1 Selleriestange, gewürfelt\n" +
+      "- 1 Zwiebel, gewürfelt\n" +
+      "- 2 Knoblauchzehen, fein gehackt\n" +
+      "- 1 l Gemüsebrühe\n" +
+      "- 1 EL Tomatenmark\n" +
+      "- 1 TL Basilikum\n" +
+      "- 1 TL Oregano\n" +
+      "- 1 EL Olivenöl\n" +
+      "- Salz und Pfeffer nach Geschmack\n" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. Das Olivenöl in einem Topf erhitzen und Zwiebel sowie Knoblauch darin anbraten.\n" +
+      "2. Die Karotten, Sellerie und Zucchini hinzufügen und kurz anbraten.\n" +
+      "3. Tomaten und Tomatenmark hinzufügen und für 5 Minuten mitbraten.\n" +
+      "4. Mit der Gemüsebrühe ablöschen und mit Basilikum, Oregano, Salz und Pfeffer würzen.\n" +
+      "5. Die Suppe etwa 30 Minuten köcheln lassen, bis das Gemüse weich ist.\n" +
+      "6. Mit einem Pürierstab pürieren und nach Belieben mit frischen Kräutern oder einem Löffel pflanzlicher Joghurt servieren."
+  },
 ];
