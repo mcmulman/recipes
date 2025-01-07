@@ -235,6 +235,7 @@ Ein reichhaltiges, aromatisches Curry mit proteinreichen Linsen, cremiger Kokosm
 
 **Zutaten:**
 
+- (Soja-Hack)
 - 2 Tassen grüne oder braune Linsen
 - 4 Kartoffeln, geschält und gewürfelt
 - 1 Zwiebel, gewürfelt
@@ -253,7 +254,7 @@ Ein reichhaltiges, aromatisches Curry mit proteinreichen Linsen, cremiger Kokosm
 
 - Die Linsen nach Packungsanweisung kochen und abtropfen lassen.
 - Die Kartoffeln in einem Topf mit Wasser weich kochen. Abgießen und mit pflanzlicher Milch und Margarine pürieren.
-- In einer Pfanne Zwiebel, Karotten, Sellerie und Knoblauch anbraten, bis sie weich sind. Tomatenmark, Gemüsebrühe und die gekochten Linsen hinzufügen. Mit Thymian, Rosmarin, Salz und Pfeffer abschmecken und alles gut vermengen.
+- In einer Pfanne (Soja-Hack), Zwiebel, Karotten, Sellerie und Knoblauch anbraten, bis sie weich sind. Tomatenmark, Gemüsebrühe und die gekochten Linsen hinzufügen. Mit Thymian, Rosmarin, Salz und Pfeffer abschmecken und alles gut vermengen.
 - Die Linsen-Gemüse-Mischung in eine Auflaufform geben und mit dem Kartoffelpüree bedecken.
 - Den Shepherd’s Pie bei 180°C für ca. 25-30 Minuten backen, bis die Oberfläche leicht goldbraun ist.`},{id:10,title:`10. "Chicken" Tikka Masala
 `,description:`### Dieses aromatische, indische Gericht wird ohne Hühnchen zubereitet, stattdessen wird Tofu oder Seitan verwendet. Es ist vollgepackt mit Gewürzen und einer cremigen Tomatensauce, die es zu einem herzhaften Favoriten macht.

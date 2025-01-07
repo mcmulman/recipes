@@ -239,6 +239,7 @@ export const RECIPES = [
       "\n" +
       "**Zutaten:**\n" +
       "\n" +
+      "- (Soja-Hack)\n" +
       "- 2 Tassen grüne oder braune Linsen\n" +
       "- 4 Kartoffeln, geschält und gewürfelt\n" +
       "- 1 Zwiebel, gewürfelt\n" +
@@ -257,7 +258,7 @@ export const RECIPES = [
       "\n" +
       "- Die Linsen nach Packungsanweisung kochen und abtropfen lassen.\n" +
       "- Die Kartoffeln in einem Topf mit Wasser weich kochen. Abgießen und mit pflanzlicher Milch und Margarine pürieren.\n" +
-      "- In einer Pfanne Zwiebel, Karotten, Sellerie und Knoblauch anbraten, bis sie weich sind. Tomatenmark, Gemüsebrühe und die gekochten Linsen hinzufügen. Mit Thymian, Rosmarin, Salz und Pfeffer abschmecken und alles gut vermengen.\n" +
+      "- In einer Pfanne (Soja-Hack), Zwiebel, Karotten, Sellerie und Knoblauch anbraten, bis sie weich sind. Tomatenmark, Gemüsebrühe und die gekochten Linsen hinzufügen. Mit Thymian, Rosmarin, Salz und Pfeffer abschmecken und alles gut vermengen.\n" +
       "- Die Linsen-Gemüse-Mischung in eine Auflaufform geben und mit dem Kartoffelpüree bedecken.\n" +
       "- Den Shepherd’s Pie bei 180°C für ca. 25-30 Minuten backen, bis die Oberfläche leicht goldbraun ist."
   },
