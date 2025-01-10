@@ -851,7 +851,7 @@ export const RECIPES = [
   },
   {
     id: 32,
-    title: "32. Vegane Spinatknödel mit „Käsesauce“",
+    title: "32. Spinatknödel mit „Käsesauce“",
     description: "### **Vegane Spinatknödel mit „Käsesauce“**\n" +
       "\n" +
       "#### Zutaten für die Knödel:\n" +
