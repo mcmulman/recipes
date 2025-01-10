@@ -848,5 +848,54 @@ export const RECIPES = [
       "2. Die Erbsen und die Gemüsebrühe hinzufügen, zum Kochen bringen und etwa 20 Minuten köcheln lassen.\n" +
       "3. Wenn das Gemüse weich ist, die Minze hinzufügen und mit einem Pürierstab die Suppe cremig pürieren.\n" +
       "4. Mit Zitronensaft, Salz und Pfeffer abschmecken und servieren."
+  },
+  {
+    id: 32,
+    title: "32. Paprika-Suppe",
+    description: "### **Paprika-Suppe**\n" +
+      "\n" +
+      "#### Zutaten Für die Käsesauce:\n" +
+      "Für die Knödel\n" +
+      "1 Zwiebel\n" +
+      "2 EL Rapsöl mit Buttergeschmack\n" +
+      "400 g Spinat\n" +
+      "260 ml Sojamilch\n" +
+      "300 g Semmel vom Vortag\n" +
+      "2 ½ EL Kichererbsenmehl\n" +
+      "2 EL Kartoffelstärke\n" +
+      "4 EL Semmelbrösel\n" +
+      "1 TL Salz\n" +
+      "\n" +
+      "#### Zutaten Für die Käsesauce:\n" +
+      "1 Schalotte\n" +
+      "1 Zehe Knoblauch\n" +
+      "1 EL Rapsöl mit Buttergeschmack\n" +
+      "1 EL Mehl\n" +
+      "50 g Cashewkerne\n" +
+      "2 EL Hefeflocken\n" +
+      "600 ml Sojamilch\n" +
+      "¾ TL schwarzer Pfeffer\n" +
+      "½ TL Salz\n" +
+      "¼ TL Muskat\n" +
+      "Außerdem\n" +
+      "2 EL veganer Parmesan" +
+      "\n" +
+      "#### Zubereitung Knödel:\n" +
+      "Für die veganen Spinatknödel\n" +
+      "Zwiebel fein würfeln. Öl in eine heiße Pfanne geben, Zwiebelwürfel bei mittlerer bis niedriger Hitze 2-3 Minuten glasig dünsten, dabei ab und zu umrühren.\n" +
+      "Etwa 500 ml Wasser in einem Topf zum Kochen bringen. Spinat hineingeben, unter Rühren 1-2 Minuten kochen. Anschließend durch ein Sieb abgießen, mit kaltem Wasser abschrecken und sehr gut ausdrücken. Übrig bleiben etwa 200 g.\n" +
+      "Die Hälfte des Spinates mit 225 ml Sojamilch pürieren. Den restlichen Spinat fein hacken.\n" +
+      "Brötchen in etwa 2 cm große Würfel schneiden. In einer Schüssel mit der Spinatmilch vermengen und beiseite stellen.\n" +
+      "Restliche Sojamilch mit Kichererbsenmehl verrühren. Zusammen mit angeschwitzten Zwiebeln, Kartoffelstärke, Semmelbrösel und gehacktem Spinat zu den eingeweichten Semmelwürfeln geben, gut verkneten und mit Salz würzen. Anschließend abgedeckt 10 Minuten quellen lassen.\n" +
+      "Währenddessen Wasser in einem großen Topf mit passendem Dämpfaufsatz zum Kochen bringen. Mit leicht angefeuchteten Händen aus der Knödelmasse 8 Knödel zu je 100 g formen und 15-20 Minuten dämpfen, bis sich die Knödel bei leichtem Druck fest anfühlen.\n" +
+      "\n" +
+      "#### Zubereitung Käsesauce\n" +
+      "Schalotte und Knoblauch fein hacken. Etwas mehr Öl in die Pfanne geben, Schalotte und Knoblauch bei mittlerer bis niedriger Hitze 2 Minuten glasig dünsten.\n" +
+      "Währenddessen Cashewkerne, Hefeflocken und Sojamilch fein pürieren.\n" +
+      "Mehl gleichmäßig über die Schalotten stäuben, kurz unter Rühren anrösten und anschließend mit der pürierten Flüssigkeit ablöschen. Unter Rühren aufkochen, mit Salz, Pfeffer und Muskat würzen und 10-15 Minuten oder bis die Spinatknödel gar sind bei niedriger Hitze köcheln lassen, dabei ab und zu umrühren. Bei Bedarf etwas mehr Sojamilch zugeben.\n" +
+      "Knödel auf der veganen Käsesauce servieren und mit veganem Parmesan toppen.\n" +
+      "\n" +
+      "#### Tipps\n" +
+      "Ihr könnt die Sauce in Schritt 3 auch mit etwas Weißwein oder einem Schuss Cognac abschmecken. Außerdem passt ein Feld- oder anderer grüner Salat super dazu."
   }
 ];
