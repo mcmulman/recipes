@@ -905,5 +905,51 @@ export const RECIPES = [
       "\n" +
       "#### Tipps\n" +
       "Ihr könnt die Sauce in Schritt 3 auch mit etwas Weißwein oder einem Schuss Cognac abschmecken. Außerdem passt ein Feld- oder anderer grüner Salat super dazu."
+  },
+  {
+    id: 33,
+    title: "33. Krautsuppe zum Entschlacken",
+    description: "### **Krautsuppe zum Entschlacken**\n" +
+      "\n" +
+      "#### Zutaten:\n" +
+      "- 0.5 Stk Weißkraut (=Weißkohl)\n" +
+      "- 3 Stk Zwiebel\n" +
+      "- 4 Stk Tomaten\n" +
+      "- 2 Stk Paprika\n" +
+      "- 2 Stk Karotten\n" +
+      "- 1 Stk Sellerie\n" +
+      "- 1.5 l Gemüsesuppe (basisch)\n" +
+      "- 1 Prise Pfeffer\n" +
+      "- 1 TL Curry\n" +
+      "- 1 Bund Petersilie" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. Zuerst das Kraut putzen, den Strunk entfernen, fein schneiden, gut waschen und abtropfen lassen.\n" +
+      "2. Dann die Zwiebeln schälen und klein schneiden.\n" +
+      "3. Weiters Tomaten, Paprika, Karotten und Sellerie putzen bzw. waschen und in Stücke schneiden.\n" +
+      "4. Danach Kraut, Zwiebeln, Tomaten, Paprika, Karotten und Sellerie in einen Topf geben, mit der Gemüsesuppe aufgießen und das Gemüse ca. 15 -20 Minuten weich kochen. Mit Pfeffer und Curry abschmecken.\n" +
+      "5. Kurz vor dem Servieren die Petersilie waschen, trocken schütteln, fein hacken und in die Suppe geben."
+  },
+  {
+    id: 34,
+    title: "34. Zucchini Chips",
+    description: "### **Zucchini Chips**\n" +
+      "\n" +
+      "#### Zutaten:\n" +
+      "- 1 Stk Zucchini (groß)\n" +
+      "- 4 EL Olivenöl\n" +
+      "- 1 Stk Zwiebel (rot)\n" +
+      "- 1 EL Olivenöl\n" +
+      "- 1 Prise Pfeffer\n" +
+      "- 1 Prise Salz\n" +
+      "- 1 Prise Paprikapulver (optional)\n" +
+      "- 1 Stk Knoblauchzehe" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. Für die Zucchini Chips zuerst die Zucchini waschen, die Enden abschneiden und in ca. 2-3 mm dicke Scheiben schneiden. Die Zucchinischeiben mit einem Küchenpapier gut trocknen.\n" +
+      "2. Danach die Zwiebel und den Knoblauch schälen und ganz klein schneiden.\n" +
+      "3. Anschließen in einer Pfanne das Öl erhitzen und die Zucchinischeiben beidseitig braten.\n" +
+      "4. Die Fertig gebratenen Chips aus der Pfanne nehmen und noch heiß mit Salz, Pfeffer und nach Belieben mit Paprikapulver würzen.\n" +
+      "5. Zum Schluss die Zwiebel und Knoblauchstücke in der gleichen Pfanne mit ein wenig Öl scharf anbraten und danach unter die Zucchini Chips mischen."
   }
 ];
