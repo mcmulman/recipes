@@ -757,24 +757,34 @@ export const RECIPES = [
     description: "### **Süßkartoffel-Risotto**\n" +
       "\n" +
       "#### Zutaten:\n" +
-      "- 2 Süßkartoffeln, gewürfelt\n" +
-      "- 1 Zwiebel, gewürfelt\n" +
-      "- 1 Dose Kokosmilch (400 ml)\n" +
-      "- 500 ml Gemüsebrühe\n" +
-      "- 1 EL Erdnussbutter\n" +
-      "- 1 EL Sojasauce\n" +
-      "- 1 TL Ingwer, frisch gerieben\n" +
-      "- 1 TL Currypulver\n" +
-      "- 1 EL Limettensaft\n" +
-      "- Frische Korianderblätter zum Garnieren\n" +
+      "- 300 g Risotto Reis\n" +
+      "- 2 Zwiebeln\n" +
+      "- 2 Knoblauchzehen\n" +
+      "- 500 g Süßkartoffeln\n" +
+      "- 120 ml veganer Weißwein der Wahl\n" +
+      "- 2 EL Öl\n" +
+      "- 120 g TK Erbsen\n" +
+      "- 700-800 ml Wasser\n" +
+      "- 3 TL Gemüsebrühpulver der Wahl\n" +
+      "- 400 ml Kokosmilch aus der Dose\n" +
+      "- 3 TL getrockneter Thymian\n" +
+      "- 1 TL Salz\n" +
+      "- 1/2 TL Pfeffer\n" +
+      "- 1/2 TL Paprika edelsüß\n" +
+      "- Je 1 Prise Kurkuma, Kreuzkümmel und Muskat\n" +
+      "- 2 Frühlingszwiebeln optionales Topping" +
       "\n" +
       "#### Zubereitung:\n" +
-      "1. In einem Topf das Olivenöl erhitzen und Zwiebel sowie Ingwer darin anbraten.\n" +
-      "2. Die Süßkartoffeln und Currypulver hinzufügen und kurz mitbraten.\n" +
-      "3. Mit Gemüsebrühe und Kokosmilch ablöschen und zum Kochen bringen.\n" +
-      "4. Etwa 20 Minuten köcheln lassen, bis die Süßkartoffeln weich sind.\n" +
-      "5. Die Erdnussbutter und Sojasauce einrühren und die Suppe pürieren.\n" +
-      "6. Mit Limettensaft abschmecken und mit frischem Koriander servieren."
+      "1. Zwiebeln und Knoblauch in kleine Stückchen schneiden.\n" +
+      "2. Süßkartoffel schälen und in kleine Würfel schneiden.\n" +
+      "3. Wasser und Gemüsebrühpulver vermengen.\n" +
+      "4. Zwiebeln und Knoblauch im Öl glasig andünsten.\n" +
+      "5. Süßkartoffelstückchen und Risotto Reis dazu geben und unter Rühren mit anbraten.\n" +
+      "6. Mit Weißwein ablöschen und den Weißwein kurz einkochen lassen.\n" +
+      "7. Etwa 350 ml Wasser-Gemüsebrüh Mischung einrühren und unter Rühren einkochen lassen.\n" +
+      "8. Die TK Erbsen und die Kokosmilch einrühren. \n" +
+      "9. Kräuter und Gewürze einrühren.\n" +
+      "10. Das Risotto bei mittlerer Hitze unter Rühren köcheln lassen. Dabei nach und nach jeweils etwas vom Rest der Wasser-Gemüsebrüh Mischung einrühren und jeweils einkochen lassen, bis der Reis und die Süßkartoffeln gar sind und die gewünschte Konsistenz erreicht ist."
   },
   {
     id: 29,
