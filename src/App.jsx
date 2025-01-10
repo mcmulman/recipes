@@ -1,15 +1,20 @@
-import Header from "./components/Header/Header";
-import Recipes from "./components/Recipes/Recipes";
+import {BrowserRouter as Router, Routes, Route, Navigate} from "react-router-dom";
+import Main from "./components/Main";
+
+
 
 function App() {
   return (
-    <div>
-      <Header/>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Main />}/>
+        <Route path="/recipes" element={<Main />}/>
+        <Route path="/recipes/:recipeId" element={<Main />}/>
 
-      <main>
-        <Recipes />
-      </main>
-    </div>
+        {/* default redirect to home page */}
+        <Route path="*" element={<Navigate to="/" />} />
+      </Routes>
+    </Router>
   );
 }
 
