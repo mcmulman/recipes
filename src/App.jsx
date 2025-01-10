@@ -9,10 +9,10 @@ function App() {
       <Routes>
         <Route path="/" element={<Main />}/>
         <Route path="/recipes" element={<Main />}/>
-        <Route path="/recipes/:recipeId" element={<Main />}/>
+        <Route path="/recipes/recipe/:recipeId" element={<Main />}/>
 
         {/* default redirect to home page */}
-        <Route path="*" element={<Navigate to="/" />} />
+        <Route path="/recipes/*" element={<Navigate to="/recipes/" />} />
       </Routes>
     </Router>
   );

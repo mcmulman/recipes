@@ -18,7 +18,7 @@ function Recipes() {
   let params = useParams();
 
   function onTabSelect(tab) {
-    navigate(`/recipes/${tab}`);
+    navigate(`/recipes/recipe/${tab}`);
   }
 
   function handleSearch(e) {
