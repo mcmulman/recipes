@@ -851,8 +851,8 @@ export const RECIPES = [
   },
   {
     id: 32,
-    title: "32. Paprika-Suppe",
-    description: "### **Paprika-Suppe**\n" +
+    title: "32. Vegane Spinatknödel mit „Käsesauce“",
+    description: "### **Vegane Spinatknödel mit „Käsesauce“**\n" +
       "\n" +
       "#### Zutaten Für die Käsesauce:\n" +
       "Für die Knödel\n" +
