@@ -8,9 +8,6 @@ function App() {
     <Router>
       <Routes>
         <Route path="/recipes" element={<Main />}/>
-
-        {/* default redirect to home page */}
-        <Route path="*" element={<Navigate to="/recipes" />} />
       </Routes>
     </Router>
   );
