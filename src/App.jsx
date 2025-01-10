@@ -8,8 +8,6 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<Main />}/>
-        <Route path="/recipes" element={<Main />}/>
-        <Route path="/recipes/:recipeId" element={<Main />}/>
 
         {/* default redirect to home page */}
         <Route path="*" element={<Navigate to="/" />} />

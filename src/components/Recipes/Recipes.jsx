@@ -6,7 +6,7 @@ import Section from "../Elements/Section";
 import Tabs from "../Elements/TabButton/Tabs";
 import offImg from '../../assets/off.svg';
 import onImg from '../../assets/on.svg';
-import {useNavigate, useParams} from "react-router-dom";
+import {createSearchParams, useNavigate, useSearchParams} from "react-router-dom";
 
 function Recipes() {
   const navigate = useNavigate();
@@ -15,10 +15,15 @@ function Recipes() {
   const [showTabs, setShowTabs] = useState(true);
   const amount = RECIPES.length;
 
-  let params = useParams();
+  const [search, setSearch] = useSearchParams();
+
 
   function onTabSelect(tab) {
-    navigate(`/recipes/${tab}`);
+    navigate({
+      pathname: location.pathname,
+      search: createSearchParams({ id: tab.toString() }).toString()
+    });
+    //setSearch({ id: tab.toString() });
   }
 
   function handleSearch(e) {
@@ -39,11 +44,13 @@ function Recipes() {
   }
 
   useEffect(() => {
-    if (params.recipeId && parseInt(params.recipeId) <= amount) {
-      setActiveTab(parseInt(params.recipeId));
+    const recipeId = search.has('id') ? parseInt(search.get('id')) : 0;
+
+    if (recipeId && recipeId <= amount) {
+      setActiveTab(recipeId);
       setShowTabs(false);
     }
-  }, [params.recipeId]);
+  }, [search]);
 
   return (
     <>
