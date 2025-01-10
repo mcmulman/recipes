@@ -854,8 +854,7 @@ export const RECIPES = [
     title: "32. Vegane Spinatknödel mit „Käsesauce“",
     description: "### **Vegane Spinatknödel mit „Käsesauce“**\n" +
       "\n" +
-      "#### Zutaten Für die Käsesauce:\n" +
-      "Für die Knödel\n" +
+      "#### Zutaten für die Knödel:\n" +
       "- 1 Zwiebel\n" +
       "- 2 EL Rapsöl mit Buttergeschmack\n" +
       "- 400 g Spinat\n" +
@@ -866,7 +865,7 @@ export const RECIPES = [
       "- 4 EL Semmelbrösel\n" +
       "- 1 TL Salz\n" +
       "\n" +
-      "#### Zutaten Für die Käsesauce:\n" +
+      "#### Zutaten für die Käsesauce:\n" +
       "- 1 Schalotte\n" +
       "- 1 Zehe Knoblauch\n" +
       "- 1 EL Rapsöl mit Buttergeschmack\n" +
@@ -881,7 +880,6 @@ export const RECIPES = [
       "- 2 EL veganer Parmesan" +
       "\n" +
       "#### Zubereitung Knödel:\n" +
-      "Für die veganen Spinatknödel\n" +
       "1. Zwiebel fein würfeln. Öl in eine heiße Pfanne geben, Zwiebelwürfel bei mittlerer bis niedriger Hitze 2-3 Minuten glasig dünsten, dabei ab und zu umrühren.\n" +
       "2. Etwa 500 ml Wasser in einem Topf zum Kochen bringen. Spinat hineingeben, unter Rühren 1-2 Minuten kochen. Anschließend durch ein Sieb abgießen, mit kaltem Wasser abschrecken und sehr gut ausdrücken. Übrig bleiben etwa 200 g.\n" +
       "3. Die Hälfte des Spinates mit 225 ml Sojamilch pürieren. Den restlichen Spinat fein hacken.\n" +
