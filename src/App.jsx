@@ -7,10 +7,10 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Main />}/>
+        <Route path="/recipes" element={<Main />}/>
 
         {/* default redirect to home page */}
-        <Route path="*" element={<Navigate to="/" />} />
+        <Route path="*" element={<Navigate to="/recipes" />} />
       </Routes>
     </Router>
   );
