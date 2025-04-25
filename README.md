@@ -18,7 +18,7 @@ $ vite build
 
 ### Deploy to GitHub Pages
 
-   - Push the changes to the repository
+   - Push the changes to the repository (run Build before!!!)
 
 ### Live Demo
 
