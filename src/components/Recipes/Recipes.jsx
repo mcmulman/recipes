@@ -17,13 +17,18 @@ function Recipes() {
 
   const [search, setSearch] = useSearchParams();
 
-
   function onTabSelect(tab) {
     navigate({
       pathname: location.pathname,
       search: createSearchParams({ id: tab.toString() }).toString()
     });
     //setSearch({ id: tab.toString() });
+  }
+
+  function resetSearch() {
+    setFilteredSearch(RECIPES);
+    document.getElementById('searchTitle').value = '';
+    document.getElementById('searchDesc').value = '';
   }
 
   function handleSearch(e) {
@@ -33,14 +38,29 @@ function Recipes() {
   }
 
   function handleReload() {
-    setFilteredSearch(RECIPES);
     setShowTabs(true);
-    document.getElementById('searchTitle').value = '';
-    document.getElementById('searchDescription').value = '';
+    resetSearch();
   }
 
   function toggleMenu() {
     !!activeTab && setShowTabs(!showTabs);
+  }
+
+  // Add navigation functions
+  function navigateNext() {
+    resetSearch();
+
+    const currentId = parseInt(activeTab);
+    const nextId = currentId < amount ? currentId + 1 : 1;
+    onTabSelect(nextId);
+  }
+
+  function navigatePrevious() {
+    resetSearch();
+
+    const currentId = parseInt(activeTab);
+    const previousId = currentId > 1 ? currentId - 1 : amount;
+    onTabSelect(previousId);
   }
 
   useEffect(() => {
@@ -74,9 +94,31 @@ function Recipes() {
           ))}
         >
           {activeTab && (
-            <div className={'tab-content'}>
-              <Recipe {...RECIPES[activeTab - 1]} />
-            </div>
+            <>
+              <div className="navigation-buttons">
+                <button
+                  onClick={navigatePrevious}
+                  className="navigation-button"
+                >« Previous</button>
+                <button
+                  onClick={navigateNext}
+                  className="navigation-button"
+                >Next »</button>
+              </div>
+              <div className={'tab-content'}>
+                <Recipe {...RECIPES[activeTab - 1]} />
+              </div>
+              <div className="navigation-buttons">
+                <button
+                  onClick={navigatePrevious}
+                  className="navigation-button"
+                >« Previous</button>
+                <button
+                  onClick={navigateNext}
+                  className="navigation-button"
+                >Next »</button>
+              </div>
+            </>
           )}
         </Tabs>
       </Section>
