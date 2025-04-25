@@ -99,11 +99,11 @@ function Recipes() {
                 <button
                   onClick={navigatePrevious}
                   className="navigation-button"
-                >« Previous</button>
+                >« Zurück</button>
                 <button
                   onClick={navigateNext}
                   className="navigation-button"
-                >Next »</button>
+                >Weiter »</button>
               </div>
               <div className={'tab-content'}>
                 <Recipe {...RECIPES[activeTab - 1]} />
@@ -112,11 +112,11 @@ function Recipes() {
                 <button
                   onClick={navigatePrevious}
                   className="navigation-button"
-                >« Previous</button>
+                >« Zurück</button>
                 <button
                   onClick={navigateNext}
                   className="navigation-button"
-                >Next »</button>
+                >Weiter »</button>
               </div>
             </>
           )}
