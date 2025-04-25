@@ -951,5 +951,145 @@ export const RECIPES = [
       "3. Anschließen in einer Pfanne das Öl erhitzen und die Zucchinischeiben beidseitig braten.\n" +
       "4. Die Fertig gebratenen Chips aus der Pfanne nehmen und noch heiß mit Salz, Pfeffer und nach Belieben mit Paprikapulver würzen.\n" +
       "5. Zum Schluss die Zwiebel und Knoblauchstücke in der gleichen Pfanne mit ein wenig Öl scharf anbraten und danach unter die Zucchini Chips mischen."
-  }
+  },
+  {
+    id: 35,
+    title: "35. Pilz-Trüffel-Dumplings",
+    description: "### **Knusprige Pilz-Trüffel-Dumplings mit Chili-Soja-Dip**\n" +
+      "\n" +
+      "#### Füllung:\n" +
+      "- 2 Tassen fein gehackte Pilze (Shiitake + braune Champignons = Perfekt)\n" +
+      "- 2 Knoblauchzehen, fein gehackt\n" +
+      "- 1 TL frischer Ingwer, gerieben\n" +
+      "- 1 EL Sojasauce\n" +
+      "- 1 TL Sesamöl\n" +
+      "- 1 Frühlingszwiebel, fein geschnitten\n" +
+      "- Einige Tropfen Trüffelöl (optional, aber mega edel)\n" +
+      "- Dumpling-Teig: Gekauft oder selbstgemacht\n" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. Pilze, Knoblauch und Ingwer in etwas Öl anbraten, bis die Flüssigkeit verdampft ist.\n" +
+      "2. Sojasauce, Sesamöl, Trüffelöl und Frühlingszwiebel unterrühren. Etwas abkühlen lassen.\n" +
+      "3. Jeweils einen Löffel Füllung in den Teig geben, mit Wasser verschließen.\n" +
+      "4. Dumplings in der Pfanne knusprig braten, dann mit einem Schuss Wasser dämpfen und abdecken (2–3 Min).\n" +
+      "4. Chili-Soja-Dip:\n" +
+      "6. 2 EL Sojasauce\n" +
+      "7. 1 TL Reisessig\n" +
+      "8. 1 TL Chiliöl\n" +
+      "\n" +
+      "- Optional: Prise Zucker oder geröstete Sesamsamen\n"
+  },
+  {
+    id: 36,
+    title: "36. Cashew-Trüffel-Pasta",
+    description: "### **Cashew-Trüffel-Pasta mit geröstetem Brokkolini**\n" +
+      "#### Zutaten:\n" +
+      "- 1 Tasse eingeweichte Cashews (über Nacht oder 10 Min gekocht)\n" +
+      "- 1 Tasse ungesüßte Pflanzenmilch\n" +
+      "- 2 EL Hefeflocken\n" +
+      "- 2 Knoblauchzehen\n" +
+      "- Saft einer halben Zitrone\n" +
+      "- Salz, Pfeffer und ein Spritzer Trüffelöl\n" +
+      "\n" +
+      "\n" +
+      "#### Weitere Zutaten:\n" +
+      "- 250 g Fettuccine oder Tagliatelle (ggf. glutenfrei)\n" +
+      "- 1 Bund Brokkolini (oder grüner Spargel), geröstet mit Olivenöl, Knoblauch und Zitronenzeste\n" +
+      "- Optional: gebratene Pilze oder knusprige Schalotten\n" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. Alle Zutaten für die Sauce in einem Mixer glatt pürieren.\n" +
+      "2. Pasta kochen, etwas Kochwasser aufbewahren.\n" +
+      "3. Nudeln mit Sauce und etwas Kochwasser bei niedriger Hitze cremig rühren.\n" +
+      "4. Mit geröstetem Brokkolini und Toppings servieren, mit Trüffelöl und schwarzem Pfeffer garnieren."
+  },
+  {
+    id: 37,
+    title: "37. Karamellisierte Lauch-Pasta",
+    description: "### **Karamellisierte Lauch-Pasta**\n" +
+      "#### Zutaten:\n" +
+      "Für die Soße:\n" +
+      "- 2 EL vegane Butter\n" +
+      "- 400 g Lauch (2–3 Stangen)\n" +
+      "- 1 Zwiebel\n" +
+      "- 1 Knoblauchzehe\n" +
+      "- 2 EL Zucker\n" +
+      "- 100 ml vegane Kochsahne\n" +
+      "- 100 ml Kochwasser der Nudeln\n" +
+      "- 1 Zitrone\n" +
+      "- 2 EL Hefeflocken\n" +
+      "- Muskat\n" +
+      "- Salz\n" +
+      "- Pfeffer\n" +
+      "\n" +
+      "Für die Toppings:\n" +
+      "- 60 g vegane Speckwürfel\n" +
+      "- 5 EL Panko\n" +
+      "- neutrales Pflanzenöl\n" +
+      "\n" +
+      "Außerdem:\n" +
+      "- 250 g kurze Pasta\n" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. Lauch waschen und in dünne Ringe schneiden und Zwiebel und Knoblauch fein würfeln. Vegane Butter in einer großen Pfanne oder einem Topf schmelzen und Lauch sowie Zwiebel darin bei mittlerer Hitze anbraten. Eine ordentliche Prise Salz hinzugeben, damit der Lauch Flüssigkeit verliert und schön weich wird. Das Ganze etwa 10–15 Minuten braten, bis das Volumen des Lauchs auf die Hälfte geschrumpft ist und er eine goldbraune Farbe hat.\n" +
+      "\n" +
+      "2. Gegen Ende den Knoblauch hinzufügen und kurz mitbraten. Anschließend den Zucker darüberstreuen und karamellisieren lassen. Die Hitze am besten reduzieren, damit nichts verbrennt.\n" +
+      "\n" +
+      "3. Während der Lauch karamellisiert, die Pasta in einem großen Topf mit gesalzenem Wasser nach Packungsanweisung al dente kochen. Vor dem Abgießen 100 Milliliter Kochwasser auffangen – das kommt später zur Soße.\n" +
+      "\n" +
+      "4. In einer kleinen Pfanne Pflanzenöl erhitzen und die veganen Speckwürfel knusprig braten. Anschließend in derselben Pfanne das Panko goldbraun rösten.\n" +
+      "\n" +
+      "5. Die karamellisierte Lauch-Zwiebel-Mischung mit pflanzlicher Sahne und Pasta-Kochwasser aufgießen und mit frischem Zitronensaft, Hefeflocken, Muskat, Salz und Pfeffer abschmecken.\n" +
+      "\n" +
+      "6. Die abgegossene Pasta direkt in die Pfanne oder den Topf zur Soße geben und alles gut vermengen. Nochmals abschmecken und mit den knusprigen veganen Speckwürfeln und dem gerösteten Panko toppen."
+  },
+  {
+    id: 38,
+    title: "38. Rote Bete / Rosenkohl Polenta",
+    description: "### **Cremige Polenta mit Rosenkohl & Rote Bete**\n" +
+      "#### Zutaten:\n" +
+      "Für die Polenta:\n" +
+      "- 130 g Polenta/Maisgrieß\n" +
+      "- 250 ml pflanzliche Sahne\n" +
+      "- 400 ml Gemüsebrühe\n" +
+      "- 1 EL Hefeflocken\n" +
+      "- Salz\n" +
+      "- Pfeffer\n" +
+      "\n" +
+      "Für das Ofengemüse:\n" +
+      "- 200 g Rosenkohl\n" +
+      "- 1 große frische Rote Bete\n" +
+      "- 1 Zwiebel\n" +
+      "- 3-4 Zweige Rosmarin\n" +
+      "- Olivenöl\n" +
+      "- Salz\n" +
+      "- Pfeffer\n" +
+      "\n" +
+      "Für das Kräuteröl:\n" +
+      "- 10 g frische Petersilie\n" +
+      "- 5 g frischer Basilikum\n" +
+      "- 5 g frischer Schnittlauch\n" +
+      "- 50 ml Olivenöl\n" +
+      "- 1 EL Agavendicksaft\n" +
+      "- 0.5 Zitrone (Saft)\n" +
+      "- Salz\n" +
+      "- Pfeffer\n" +
+      "\n" +
+      "Zum Servieren:\n" +
+      "- Pinienkerne" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. Backofen auf 180 °C (Umluft) vorheizen. Die äußeren Blätter des Rosenkohls entfernen und den Strunk etwas kürzen. Röschen anschließend waschen und halbieren. Rote Bete waschen und zerkleinern (die Stücke sollten so groß sein wie die Rosenkohlhälften). Zwiebel schälen und vierteln.\n" +
+      "\n" +
+      "2. Das Gemüse mit dem Rosmarin auf einem mit Backpapier ausgelegten Backblech verteilen. Mit Olivenöl beträufeln und mit Salz und Pfeffer würzen. Für 20–30 Minuten bei 180 °C (Umluft) backen, bis sich das Gemüse mit einer Gabel leicht einstechen lässt.\n" +
+      "\n" +
+      "3. Für das Kräuteröl Petersilie, Basilikum und Schnittlauch waschen und grob hacken. Olivenöl, gehackte Kräuter, Agavendicksaft und Zitronensaft in ein hohes Gefäß geben und pürieren. Mit Salz und Pfeffer abschmecken und beiseitestellen.\n" +
+      "\n" +
+      "4. Pinienkerne in einer fettfreien Pfanne goldbraun rösten.\n" +
+      "\n" +
+      "5. Für die Polenta pflanzliche Sahne und Gemüsebrühe in einem Topf aufkochen. Maisgrieß (Polenta) unter Rühren hinzugeben und je nach Packungsanweisung bei schwacher Hitze köcheln lassen, bis der Grieß weich ist – je nach Polentasorte kann das nur wenige Minuten oder auch 10 Minuten oder länger dauern. Die Polenta mit Hefeflocken, Salz und Pfeffer abschmecken.\n" +
+      "\n" +
+      "6. Die Polenta mit Ofengemüse, Kräuteröl und Pinienkernen servieren." +
+      "\n"
+  },
 ];
