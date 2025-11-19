@@ -1092,4 +1092,54 @@ export const RECIPES = [
       "6. Die Polenta mit Ofengemüse, Kräuteröl und Pinienkernen servieren." +
       "\n"
   },
+  {
+    id: 39,
+    title: "39. Möhren-Biryani",
+    description: "### **Veganes Möhren-Biryani**\n" +
+      "#### Zutaten:\n" +
+      "- 150 g Basmati Reis\n" +
+      "\n" +
+      "- 1 rote Zwiebel, fein gehackt\n" +
+      "\n" +
+      "- 2 Knoblauchzehen, fein gehackt\n" +
+      "\n" +
+      "- 3 EL Öl\n" +
+      "\n" +
+      "- 1/2 milde grüne Chilischote, fein gehackt\n" +
+      "\n" +
+      "- 1 TL Garam Masala (oder Currypulver)\n" +
+      "\n" +
+      "- 1 TL Kurkuma\n" +
+      "\n" +
+      "- 3 Möhren, geraspelt\n" +
+      "\n" +
+      "- 150 g Erbsen (TK möglich)\n" +
+      "\n" +
+      "- Optional: 1 EL getrocknete Bockshornkleeblätter (Kasoori Methi)\n" +
+      "\n" +
+      "- 50 g Cashewkerne, geröstet\n" +
+      "\n" +
+      "- 1 Handvoll Korianderblätter\n" +
+      "\n" +
+      "- Salz, Pfeffer\n" +
+      "\n" +
+      "- Veganer Joghurt nach Belieben" +
+      "\n" +
+      "#### Zubereitung:\n" +
+      "1. Basmati Reis 5 Minuten kürzer als üblich kochen.\n" +
+      "\n" +
+      "2. Öl in einer großen Pfanne erhitzen, Zwiebel ca. 5 Minuten anschwitzen, bis sie weich und goldbraun ist.\n" +
+      "\n" +
+      "3. Chili und Knoblauch hinzufügen, weitere 1 Minute dünsten.\n" +
+      "\n" +
+      "4. Gewürze mit 50 ml Wasser einrühren und einige Minuten kochen lassen.\n" +
+      "\n" +
+      "5. Geraspelte Möhren und Erbsen einrühren, Gewürze verteilen.\n" +
+      "\n" +
+      "6. Reis hinzufügen, erneut umrühren und alles an den Rand der Pfanne schieben.\n" +
+      "\n" +
+      "7. Noch etwas Öl auf den Pfannenboden geben, alles mischen und verteilen, mit Salz und Pfeffer würzen.\n" +
+      "\n" +
+      "8. So lange ohne zu rühren garen, bis der Reis am Boden knusprig wird."
+  },
 ];
